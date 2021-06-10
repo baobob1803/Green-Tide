@@ -82,3 +82,8 @@ ProjetFin2eAnnee/Intermediate/CachedAssetRegistry.bin
 *.ini
 *.ini
 ProjetFin2eAnnee/Saved/AutoScreenshot.png
+*.log
+*.ini
+ProjetFin2eAnnee/Intermediate/CachedAssetRegistry.bin
+ProjetFin2eAnnee/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+ProjetFin2eAnnee/Saved/Config/Windows/Engine.ini
