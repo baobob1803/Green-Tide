@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+*.log
+ProjetFin2eAnnee/Saved/Config/Windows/Engine.ini
+ProjetFin2eAnnee/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+ProjetFin2eAnnee/Saved/Config/CrashReportClient/UE4CC-Windows-4A97E87A4AE964099DFE41A825881E59/CrashReportClient.ini
+ProjetFin2eAnnee/Intermediate/CachedAssetRegistry.bin
