@@ -1749,3 +1749,4 @@ Make sure 'UI_MainMenu_BP' has been compiled for  Profile Menu Button Clicked
 [2021.06.11-08.18.32:300][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.11-08.18.32:345][405]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
 [2021.06.11-08.18.32:430][406]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.06.11-08.19.04:145][854]LogUObjectHash: Compacting FUObjectHashTables data took  10.82ms
