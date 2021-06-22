@@ -4289,3 +4289,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.22-16.38.53:262][666]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/VillageLevelDFE71E264AC7395787C2D0BC48CCB344.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/VillageLevel.umap'
 [2021.06.22-16.38.53:279][666]AssetCheck: New page: Asset Save: VillageLevel
 [2021.06.22-16.38.53:280][666]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/VillageLevel.VillageLevel
+[2021.06.22-16.39.17:919][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.06.22-16.39.17:928][857]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/VillageLevel786D6A844AB8F7CC27DB4DA5BC511869.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/VillageLevel.umap'
+[2021.06.22-16.39.17:950][857]AssetCheck: New page: Asset Save: VillageLevel
+[2021.06.22-16.39.17:950][857]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/VillageLevel.VillageLevel
