@@ -3064,3 +3064,594 @@ Script Stack (0 frames):
 [2021.06.22-14.46.45:234][659]LogPlayLevel: Display: Destroying online subsystem :Context_39
 [2021.06.22-14.46.49:378][103]LogSlate: Window 'Message Log' being destroyed
 [2021.06.22-14.46.49:387][103]LogSlate: Window 'Message Log' being destroyed
+[2021.06.22-14.56.28:737][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.06.22-14.56.28:770][897]LogSavePackage: Moving 'C:/Users/Flatheet/Documents/Unreal Projects/Portfolio-IV-2eme-Annee/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/ThirdPersonExampleMap_Auto59E5E27D74207E267A2722285E697344A.tmp' to 'C:/Users/Flatheet/Documents/Unreal Projects/Portfolio-IV-2eme-Annee/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2021.06.22-14.56.28:772][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.060
+[2021.06.22-14.56.28:773][897]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2021.06.22-14.56.28:773][897]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Character_Master] ([1] browsable assets)...
+[2021.06.22-14.56.28:773][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Character_Master]
+[2021.06.22-14.56.28:839][897]LogSavePackage: Moving 'C:/Users/Flatheet/Documents/Unreal Projects/Portfolio-IV-2eme-Annee/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/BP_Character_Master_Auto5550CE6EB436A26FFE2B36A84C99F2400.tmp' to 'C:/Users/Flatheet/Documents/Unreal Projects/Portfolio-IV-2eme-Annee/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Character_Master_Auto5.uasset'
+[2021.06.22-14.56.28:841][897]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.06.22-16.01.14:878][342]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.22-16.01.14:892][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-16.01.14:892][342]PIE: New page: PIE session: ThirdPersonExampleMap (22 juin 2021 à 20:01:14)
+[2021.06.22-16.01.14:894][342]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.01.14:935][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040950s)
+[2021.06.22-16.01.14:939][342]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.22-16.01.14:942][342]LogPlayLevel: PIE: World Init took: (0.006285s)
+[2021.06.22-16.01.14:942][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047809s)
+[2021.06.22-16.01.15:053][342]LogUObjectHash: Compacting FUObjectHashTables data took  12.08ms
+[2021.06.22-16.01.15:075][342]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.06.22-16.01.15:076][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-16.01.15:076][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-16.01.15:076][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-16.01.15:076][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-16.01.15:076][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-16.01.15:076][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-16.01.15:076][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-16.01.15:076][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-16.01.15:077][342]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-16.01.15:077][342]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-16.01.15:082][342]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-16.01.15:082][342]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-16.01.15:095][342]LogAudioMixer: Display: Using Audio Device Wave Link Game (Elgato Wave:3)
+[2021.06.22-16.01.15:096][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-16.01.15:096][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-16.01.15:096][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-16.01.15:097][342]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-16.01.15:098][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-16.01.15:098][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-16.01.15:112][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-16.01.15:112][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-16.01.15:112][342]LogInit: FAudioDevice initialized.
+[2021.06.22-16.01.15:112][342]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonExampleMap'.
+[2021.06.22-16.01.15:128][342]LogLoad: Game class is 'GameModeBase'
+[2021.06.22-16.01.15:134][342]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.22-18.01.15
+[2021.06.22-16.01.15:134][342]LogWorld: Bringing up level for play took: 0.005455
+[2021.06.22-16.01.15:135][342]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.06.22-16.01.15:139][342]LogBlueprintUserMessages: [BP_WaveManager_4] InitSpawnPoints
+[2021.06.22-16.01.15:140][342]PIE: Server logged in
+[2021.06.22-16.01.15:142][342]PIE: Play in editor total start time 0,253 seconds.
+[2021.06.22-16.01.15:967][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.19:349][837]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.22-16.01.19:350][837]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.22-16.01.22:646][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.23:157][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.01.24:135][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.01.24:135][400]LogBlueprintUserMessages: [BP_Orc_C_3] 50
+[2021.06.22-16.01.24:168][404]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.01.25:038][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.26:933][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.01.29:087][972]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.29:826][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.01.30:947][184]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack charged!
+[2021.06.22-16.01.31:808][284]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.33:001][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack charged!
+[2021.06.22-16.01.34:231][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.34:963][652]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.01.35:978][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.01.36:690][849]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.37:968][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.01.39:178][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.01.39:905][170]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.40:109][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc5
+[2021.06.22-16.01.40:109][194]LogBlueprintUserMessages: [BP_Orc_C_5] 50
+[2021.06.22-16.01.40:117][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc5
+[2021.06.22-16.01.40:117][195]LogBlueprintUserMessages: [BP_Orc_C_5] 0
+[2021.06.22-16.01.40:118][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.01.40:416][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.01.41:429][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.01.42:098][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc6
+[2021.06.22-16.01.42:099][423]LogBlueprintUserMessages: [BP_Orc_C_6] 50
+[2021.06.22-16.01.42:107][424]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc6
+[2021.06.22-16.01.42:107][424]LogBlueprintUserMessages: [BP_Orc_C_6] 0
+[2021.06.22-16.01.42:107][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.01.42:268][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.42:861][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.01.43:878][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.01.44:632][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.01.44:937][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc8
+[2021.06.22-16.01.44:937][724]LogBlueprintUserMessages: [BP_Orc_C_8] 50
+[2021.06.22-16.01.44:945][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc8
+[2021.06.22-16.01.44:945][725]LogBlueprintUserMessages: [BP_Orc_C_8] 0
+[2021.06.22-16.01.44:945][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.01.45:146][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.01.45:260][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.01.45:260][758]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.01.45:260][758]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-16.01.45:261][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.01.45:270][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-16.01.45:276][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.01.45:298][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.22-16.01.45:299][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.01.45:300][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.01.45:316][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.01.45:322][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.06.22-16.01.45:439][759]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.06.22-16.03.28:097][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.06.22-16.03.28:127][404]LogSavePackage: Moving 'C:/Users/Flatheet/Documents/Unreal Projects/Portfolio-IV-2eme-Annee/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/ThirdPersonExampleMapF7D8D2444AC5F68F2C336491FC7DFA40.tmp' to 'C:/Users/Flatheet/Documents/Unreal Projects/Portfolio-IV-2eme-Annee/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.22-16.03.28:164][404]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.06.22-16.03.28:164][404]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.22-16.03.51:308][978]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.22-16.03.51:318][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-16.03.51:318][978]PIE: New page: PIE session: ThirdPersonExampleMap (22 juin 2021 à 20:03:51)
+[2021.06.22-16.03.51:339][978]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.03.51:354][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014534s)
+[2021.06.22-16.03.51:355][978]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.22-16.03.51:355][978]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2021.06.22-16.03.51:355][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016242s)
+[2021.06.22-16.03.51:385][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.06.22-16.03.51:391][978]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.06.22-16.03.51:391][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-16.03.51:391][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-16.03.51:391][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-16.03.51:391][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-16.03.51:391][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-16.03.51:391][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-16.03.51:391][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-16.03.51:391][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-16.03.51:392][978]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-16.03.51:392][978]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-16.03.51:396][978]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-16.03.51:397][978]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-16.03.51:408][978]LogAudioMixer: Display: Using Audio Device Wave Link Game (Elgato Wave:3)
+[2021.06.22-16.03.51:409][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-16.03.51:409][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-16.03.51:409][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-16.03.51:410][978]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-16.03.51:410][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-16.03.51:410][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-16.03.51:424][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-16.03.51:424][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-16.03.51:424][978]LogInit: FAudioDevice initialized.
+[2021.06.22-16.03.51:424][978]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonExampleMap'.
+[2021.06.22-16.03.51:433][978]LogLoad: Game class is 'GameModeBase'
+[2021.06.22-16.03.51:435][978]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.22-18.03.51
+[2021.06.22-16.03.51:435][978]LogWorld: Bringing up level for play took: 0.001591
+[2021.06.22-16.03.51:435][978]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.06.22-16.03.51:437][978]LogBlueprintUserMessages: [BP_WaveManager_4] InitSpawnPoints
+[2021.06.22-16.03.51:438][978]PIE: Server logged in
+[2021.06.22-16.03.51:439][978]PIE: Play in editor total start time 0,122 seconds.
+[2021.06.22-16.04.00:184][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.04.00:193][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc
+[2021.06.22-16.04.00:194][843]LogBlueprintUserMessages: [BP_Orc_C_0] 50
+[2021.06.22-16.04.00:204][844]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc
+[2021.06.22-16.04.00:204][844]LogBlueprintUserMessages: [BP_Orc_C_0] 0
+[2021.06.22-16.04.00:204][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.04.01:387][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.04.01:489][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.04.01:489][964]LogBlueprintUserMessages: [BP_Orc_C_3] 50
+[2021.06.22-16.04.01:520][967]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.04.01:520][967]LogBlueprintUserMessages: [BP_Orc_C_3] 0
+[2021.06.22-16.04.01:520][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.04.01:574][972]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc1
+[2021.06.22-16.04.01:574][972]LogBlueprintUserMessages: [BP_Orc_C_1] 50
+[2021.06.22-16.04.01:585][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc1
+[2021.06.22-16.04.01:585][973]LogBlueprintUserMessages: [BP_Orc_C_1] 0
+[2021.06.22-16.04.01:586][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.04.01:936][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc4
+[2021.06.22-16.04.01:936][  8]LogBlueprintUserMessages: [BP_Orc_C_4] 50
+[2021.06.22-16.04.01:951][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc4
+[2021.06.22-16.04.01:951][  9]LogBlueprintUserMessages: [BP_Orc_C_4] 0
+[2021.06.22-16.04.01:952][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.04.02:869][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.04.04:285][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.04.05:755][390]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.04.05:765][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc2
+[2021.06.22-16.04.05:766][391]LogBlueprintUserMessages: [BP_Orc_C_2] 50
+[2021.06.22-16.04.05:774][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc2
+[2021.06.22-16.04.05:774][392]LogBlueprintUserMessages: [BP_Orc_C_2] 0
+[2021.06.22-16.04.05:774][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.04.07:188][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.04.07:188][535]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.04.07:188][535]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-16.04.07:188][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.04.07:196][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-16.04.07:203][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.04.07:226][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.04.07:226][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.04.07:227][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.04.07:250][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.06.22-16.04.07:330][536]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.06.22-16.04.16:455][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_Character_Master.BP_Character_Master
+[2021.06.22-16.06.41:174][776]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.22-16.06.41:183][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-16.06.41:183][776]PIE: New page: PIE session: ThirdPersonExampleMap (22 juin 2021 à 20:06:41)
+[2021.06.22-16.06.41:215][776]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.06.41:233][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017365s)
+[2021.06.22-16.06.41:234][776]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.22-16.06.41:234][776]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2021.06.22-16.06.41:234][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019104s)
+[2021.06.22-16.06.41:270][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.06.22-16.06.41:281][776]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.06.22-16.06.41:281][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-16.06.41:281][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-16.06.41:281][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-16.06.41:281][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-16.06.41:281][776]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-16.06.41:281][776]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-16.06.41:281][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-16.06.41:281][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-16.06.41:282][776]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-16.06.41:282][776]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-16.06.41:286][776]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-16.06.41:286][776]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-16.06.41:301][776]LogAudioMixer: Display: Using Audio Device Wave Link Game (Elgato Wave:3)
+[2021.06.22-16.06.41:301][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-16.06.41:301][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-16.06.41:301][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-16.06.41:302][776]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-16.06.41:302][776]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-16.06.41:302][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-16.06.41:322][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-16.06.41:323][776]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-16.06.41:323][776]LogInit: FAudioDevice initialized.
+[2021.06.22-16.06.41:323][776]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonExampleMap'.
+[2021.06.22-16.06.41:336][776]LogLoad: Game class is 'GameModeBase'
+[2021.06.22-16.06.41:339][776]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.22-18.06.41
+[2021.06.22-16.06.41:339][776]LogWorld: Bringing up level for play took: 0.002589
+[2021.06.22-16.06.41:340][776]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.06.22-16.06.41:343][776]LogBlueprintUserMessages: [BP_WaveManager_4] InitSpawnPoints
+[2021.06.22-16.06.41:343][776]PIE: Server logged in
+[2021.06.22-16.06.41:345][776]PIE: Play in editor total start time 0,164 seconds.
+[2021.06.22-16.06.41:946][824]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.06.45:235][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.06.49:659][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.06.49:932][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc1
+[2021.06.22-16.06.49:932][558]LogBlueprintUserMessages: [BP_Orc_C_1] 50
+[2021.06.22-16.06.49:942][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc1
+[2021.06.22-16.06.49:943][559]LogBlueprintUserMessages: [BP_Orc_C_1] 0
+[2021.06.22-16.06.49:943][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.06.49:988][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.06.49:988][563]LogBlueprintUserMessages: [BP_Orc_C_3] 50
+[2021.06.22-16.06.50:000][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.06.50:000][564]LogBlueprintUserMessages: [BP_Orc_C_3] 0
+[2021.06.22-16.06.50:001][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.06.51:124][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.06.52:096][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc2
+[2021.06.22-16.06.52:096][744]LogBlueprintUserMessages: [BP_Orc_C_2] 50
+[2021.06.22-16.06.52:106][745]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc2
+[2021.06.22-16.06.52:106][745]LogBlueprintUserMessages: [BP_Orc_C_2] 0
+[2021.06.22-16.06.52:106][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.06.52:405][771]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.06.53:736][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.06.53:736][885]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.06.53:736][885]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-16.06.53:736][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.06.53:748][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-16.06.53:754][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.06.53:780][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.22-16.06.53:781][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.06.53:782][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.06.53:800][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.06.53:804][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.06.22-16.06.53:880][886]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.06.22-16.07.18:857][516]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.22-16.07.18:864][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-16.07.18:865][516]PIE: New page: PIE session: ThirdPersonExampleMap (22 juin 2021 à 20:07:18)
+[2021.06.22-16.07.18:865][516]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.07.18:879][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013718s)
+[2021.06.22-16.07.18:880][516]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.22-16.07.18:880][516]LogPlayLevel: PIE: World Init took: (0.001817s)
+[2021.06.22-16.07.18:880][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015723s)
+[2021.06.22-16.07.18:915][516]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.06.22-16.07.18:917][516]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.06.22-16.07.18:917][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-16.07.18:917][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-16.07.18:917][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-16.07.18:917][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-16.07.18:917][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-16.07.18:917][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-16.07.18:918][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-16.07.18:918][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-16.07.18:918][516]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-16.07.18:918][516]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-16.07.18:922][516]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-16.07.18:922][516]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-16.07.18:935][516]LogAudioMixer: Display: Using Audio Device Wave Link Game (Elgato Wave:3)
+[2021.06.22-16.07.18:935][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-16.07.18:935][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-16.07.18:935][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-16.07.18:936][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-16.07.18:936][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-16.07.18:936][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-16.07.18:950][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-16.07.18:950][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-16.07.18:950][516]LogInit: FAudioDevice initialized.
+[2021.06.22-16.07.18:950][516]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonExampleMap'.
+[2021.06.22-16.07.18:977][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.07.18:979][516]LogLoad: Game class is 'GameModeBase'
+[2021.06.22-16.07.18:982][516]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.22-18.07.18
+[2021.06.22-16.07.18:982][516]LogWorld: Bringing up level for play took: 0.003082
+[2021.06.22-16.07.18:983][516]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.06.22-16.07.18:986][516]LogBlueprintUserMessages: [BP_WaveManager_4] InitSpawnPoints
+[2021.06.22-16.07.18:992][516]PIE: Server logged in
+[2021.06.22-16.07.18:998][516]PIE: Play in editor total start time 0,135 seconds.
+[2021.06.22-16.07.20:252][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.07.21:802][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.07.22:819][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.07.26:730][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.07.28:250][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.07.28:297][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.07.28:298][116]LogBlueprintUserMessages: [BP_Orc_C_3] 50
+[2021.06.22-16.07.28:312][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.07.28:312][117]LogBlueprintUserMessages: [BP_Orc_C_3] 0
+[2021.06.22-16.07.28:312][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.07.28:474][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc4
+[2021.06.22-16.07.28:474][128]LogBlueprintUserMessages: [BP_Orc_C_4] 50
+[2021.06.22-16.07.29:267][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.07.30:461][255]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.07.31:485][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.07.32:516][388]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.07.32:987][419]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc1
+[2021.06.22-16.07.32:987][419]LogBlueprintUserMessages: [BP_Orc_C_1] 50
+[2021.06.22-16.07.33:001][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc1
+[2021.06.22-16.07.33:001][420]LogBlueprintUserMessages: [BP_Orc_C_1] 0
+[2021.06.22-16.07.33:001][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.07.33:888][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.07.35:290][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.07.38:229][753]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.07.39:698][844]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.07.40:883][923]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack charged!
+[2021.06.22-16.07.41:651][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.07.42:180][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.07.43:488][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.07.43:488][ 87]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.07.43:489][ 87]LogSlate: Window 'ProjetFin2eAnnee Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-16.07.43:503][ 87]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-16.07.43:503][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.07.43:516][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-16.07.43:522][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.07.43:552][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.07.43:554][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.07.43:574][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.06.22-16.07.43:652][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.06.22-16.07.56:884][270]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.22-16.07.56:891][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-16.07.56:892][270]PIE: New page: PIE session: ThirdPersonExampleMap (22 juin 2021 à 20:07:56)
+[2021.06.22-16.07.56:892][270]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.07.56:905][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013012s)
+[2021.06.22-16.07.56:907][270]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.22-16.07.56:908][270]LogPlayLevel: PIE: World Init took: (0.002413s)
+[2021.06.22-16.07.56:908][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015645s)
+[2021.06.22-16.07.56:943][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.06.22-16.07.56:946][270]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.06.22-16.07.56:946][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-16.07.56:946][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-16.07.56:946][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-16.07.56:946][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-16.07.56:946][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-16.07.56:946][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-16.07.56:946][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-16.07.56:946][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-16.07.56:947][270]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-16.07.56:947][270]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-16.07.56:952][270]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-16.07.56:952][270]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-16.07.56:965][270]LogAudioMixer: Display: Using Audio Device Wave Link Game (Elgato Wave:3)
+[2021.06.22-16.07.56:966][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-16.07.56:966][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-16.07.56:966][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-16.07.56:967][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-16.07.56:967][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-16.07.56:967][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-16.07.56:980][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-16.07.56:980][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-16.07.56:980][270]LogInit: FAudioDevice initialized.
+[2021.06.22-16.07.56:980][270]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonExampleMap'.
+[2021.06.22-16.07.57:014][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.07.57:015][270]LogLoad: Game class is 'GameModeBase'
+[2021.06.22-16.07.57:018][270]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.22-18.07.57
+[2021.06.22-16.07.57:019][270]LogWorld: Bringing up level for play took: 0.003199
+[2021.06.22-16.07.57:019][270]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.06.22-16.07.57:021][270]LogBlueprintUserMessages: [BP_WaveManager_4] InitSpawnPoints
+[2021.06.22-16.07.57:027][270]PIE: Server logged in
+[2021.06.22-16.07.57:033][270]PIE: Play in editor total start time 0,142 seconds.
+[2021.06.22-16.08.05:489][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.08.07:331][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.08.08:254][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc
+[2021.06.22-16.08.08:254][ 55]LogBlueprintUserMessages: [BP_Orc_C_0] 50
+[2021.06.22-16.08.08:270][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc
+[2021.06.22-16.08.08:270][ 56]LogBlueprintUserMessages: [BP_Orc_C_0] 0
+[2021.06.22-16.08.08:270][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.08.08:349][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.08.08:978][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.08.08:978][105]LogBlueprintUserMessages: [BP_Orc_C_3] 50
+[2021.06.22-16.08.08:991][106]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.08.08:991][106]LogBlueprintUserMessages: [BP_Orc_C_3] 0
+[2021.06.22-16.08.08:992][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.08.09:322][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.08.10:611][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.08.12:322][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.08.12:405][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc4
+[2021.06.22-16.08.12:405][337]LogBlueprintUserMessages: [BP_Orc_C_4] 50
+[2021.06.22-16.08.12:450][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc2
+[2021.06.22-16.08.12:450][340]LogBlueprintUserMessages: [BP_Orc_C_2] 50
+[2021.06.22-16.08.12:465][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc2
+[2021.06.22-16.08.12:465][341]LogBlueprintUserMessages: [BP_Orc_C_2] 0
+[2021.06.22-16.08.12:465][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.08.13:003][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc4
+[2021.06.22-16.08.13:003][378]LogBlueprintUserMessages: [BP_Orc_C_4] 0
+[2021.06.22-16.08.13:003][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.08.13:476][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.08.14:844][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.08.15:268][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.08.15:268][526]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.08.15:268][526]LogSlate: Window 'ProjetFin2eAnnee Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-16.08.15:281][526]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-16.08.15:281][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.08.15:293][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-16.08.15:301][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.08.15:329][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.08.15:330][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.08.15:353][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.22-16.08.15:434][527]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.06.22-16.08.22:770][ 36]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.22-16.08.22:772][ 36]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Éditeur de méthode d’entrée Microsoft).
+[2021.06.22-16.08.33:178][792]LogEditorViewport: Clicking on Actor (LMB): BP_Character_Master_C (ThirdPersonCharacter)
+[2021.06.22-16.08.40:480][250]BlueprintLog: New page: Compile BP_Character_Master
+[2021.06.22-16.08.40:739][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.06.22-16.09.26:990][364]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.06.22-16.09.26:990][364]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (SM_sword)  and was replaced as a Custom Event!
+[2021.06.22-16.09.46:936][796]LogSlate: Window 'Message Log' being destroyed
+[2021.06.22-16.09.46:949][796]LogSlate: Window 'Message Log' being destroyed
+[2021.06.22-16.10.39:656][ 91]LogSavePackage: Moving 'C:/Users/Flatheet/Documents/Unreal Projects/Portfolio-IV-2eme-Annee/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/BP_Character_MasterF69A9BD2459E1E76AF66538B38B1C4ED.tmp' to 'C:/Users/Flatheet/Documents/Unreal Projects/Portfolio-IV-2eme-Annee/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ThirdPersonBP/Blueprints/BP_Character_Master.uasset'
+[2021.06.22-16.10.39:673][ 91]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.06.22-16.10.39:674][ 91]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_Character_Master.BP_Character_Master
+[2021.06.22-16.10.43:718][444]BlueprintLog: New page: Compile BP_Character_Master
+[2021.06.22-16.10.43:896][444]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2021.06.22-16.10.45:370][560]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.22-16.10.45:600][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-16.10.45:601][560]PIE: New page: PIE session: ThirdPersonExampleMap (22 juin 2021 à 20:10:45)
+[2021.06.22-16.10.45:601][560]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.10.45:615][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013958s)
+[2021.06.22-16.10.45:617][560]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.22-16.10.45:617][560]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2021.06.22-16.10.45:617][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015737s)
+[2021.06.22-16.10.45:658][560]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.06.22-16.10.45:659][560]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.06.22-16.10.45:660][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-16.10.45:660][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-16.10.45:660][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-16.10.45:660][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-16.10.45:660][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-16.10.45:660][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-16.10.45:660][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-16.10.45:660][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-16.10.45:661][560]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-16.10.45:661][560]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-16.10.45:666][560]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-16.10.45:666][560]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-16.10.45:679][560]LogAudioMixer: Display: Using Audio Device Wave Link Game (Elgato Wave:3)
+[2021.06.22-16.10.45:680][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-16.10.45:680][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-16.10.45:680][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-16.10.45:681][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-16.10.45:681][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-16.10.45:681][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-16.10.45:700][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-16.10.45:700][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-16.10.45:700][560]LogInit: FAudioDevice initialized.
+[2021.06.22-16.10.45:701][560]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonExampleMap'.
+[2021.06.22-16.10.45:728][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.10.45:729][560]LogLoad: Game class is 'GameModeBase'
+[2021.06.22-16.10.45:731][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.22-18.10.45
+[2021.06.22-16.10.45:732][560]LogWorld: Bringing up level for play took: 0.002430
+[2021.06.22-16.10.45:732][560]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.06.22-16.10.45:734][560]LogBlueprintUserMessages: [BP_WaveManager_4] InitSpawnPoints
+[2021.06.22-16.10.45:736][560]PIE: Server logged in
+[2021.06.22-16.10.45:736][560]PIE: Play in editor total start time 0,359 seconds.
+[2021.06.22-16.10.46:817][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.10.54:002][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.10.54:392][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc2
+[2021.06.22-16.10.54:393][138]LogBlueprintUserMessages: [BP_Orc_C_2] 50
+[2021.06.22-16.10.54:409][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc1
+[2021.06.22-16.10.54:410][139]LogBlueprintUserMessages: [BP_Orc_C_1] 50
+[2021.06.22-16.10.54:427][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc1
+[2021.06.22-16.10.54:427][140]LogBlueprintUserMessages: [BP_Orc_C_1] 0
+[2021.06.22-16.10.54:427][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.10.54:504][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc
+[2021.06.22-16.10.54:504][145]LogBlueprintUserMessages: [BP_Orc_C_0] 50
+[2021.06.22-16.10.55:632][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.10.57:595][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.10.58:988][447]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.10.59:003][448]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc2
+[2021.06.22-16.10.59:003][448]LogBlueprintUserMessages: [BP_Orc_C_2] 0
+[2021.06.22-16.10.59:003][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.00:169][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.11.00:185][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.11.00:185][527]LogBlueprintUserMessages: [BP_Orc_C_3] 50
+[2021.06.22-16.11.00:198][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc3
+[2021.06.22-16.11.00:198][528]LogBlueprintUserMessages: [BP_Orc_C_3] 0
+[2021.06.22-16.11.00:198][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.00:241][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc4
+[2021.06.22-16.11.00:241][531]LogBlueprintUserMessages: [BP_Orc_C_4] 50
+[2021.06.22-16.11.00:255][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc4
+[2021.06.22-16.11.00:255][532]LogBlueprintUserMessages: [BP_Orc_C_4] 0
+[2021.06.22-16.11.00:256][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.00:272][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc
+[2021.06.22-16.11.00:272][533]LogBlueprintUserMessages: [BP_Orc_C_0] 0
+[2021.06.22-16.11.00:272][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.05:569][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack charged!
+[2021.06.22-16.11.07:136][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack charged!
+[2021.06.22-16.11.08:835][108]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack charged!
+[2021.06.22-16.11.10:587][209]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.11.10:730][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc6
+[2021.06.22-16.11.10:730][217]LogBlueprintUserMessages: [BP_Orc_C_6] 50
+[2021.06.22-16.11.12:515][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.11.12:529][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc9
+[2021.06.22-16.11.12:530][334]LogBlueprintUserMessages: [BP_Orc_C_9] 50
+[2021.06.22-16.11.12:545][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc9
+[2021.06.22-16.11.12:545][335]LogBlueprintUserMessages: [BP_Orc_C_9] 0
+[2021.06.22-16.11.12:545][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.12:560][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc7
+[2021.06.22-16.11.12:560][336]LogBlueprintUserMessages: [BP_Orc_C_7] 50
+[2021.06.22-16.11.12:575][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc7
+[2021.06.22-16.11.12:575][337]LogBlueprintUserMessages: [BP_Orc_C_7] 0
+[2021.06.22-16.11.12:575][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.12:638][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc8
+[2021.06.22-16.11.12:638][341]LogBlueprintUserMessages: [BP_Orc_C_8] 50
+[2021.06.22-16.11.12:653][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc8
+[2021.06.22-16.11.12:653][342]LogBlueprintUserMessages: [BP_Orc_C_8] 0
+[2021.06.22-16.11.12:653][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.13:403][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc6
+[2021.06.22-16.11.13:404][389]LogBlueprintUserMessages: [BP_Orc_C_6] 0
+[2021.06.22-16.11.13:404][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.13:536][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.11.13:651][404]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc5
+[2021.06.22-16.11.13:651][404]LogBlueprintUserMessages: [BP_Orc_C_5] 50
+[2021.06.22-16.11.13:667][405]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc5
+[2021.06.22-16.11.13:667][405]LogBlueprintUserMessages: [BP_Orc_C_5] 0
+[2021.06.22-16.11.13:668][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.17:566][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.11.18:795][750]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack charged!
+[2021.06.22-16.11.19:572][802]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.11.20:353][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.11.27:333][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.11.28:147][371]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.11.29:176][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.11.30:043][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.11.30:565][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.11.31:636][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.11.32:390][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.11.33:125][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.11.33:512][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc12
+[2021.06.22-16.11.33:512][714]LogBlueprintUserMessages: [BP_Orc_C_12] 50
+[2021.06.22-16.11.33:574][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc12
+[2021.06.22-16.11.33:574][718]LogBlueprintUserMessages: [BP_Orc_C_12] 0
+[2021.06.22-16.11.33:574][718]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.33:606][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc10
+[2021.06.22-16.11.33:606][720]LogBlueprintUserMessages: [BP_Orc_C_10] 50
+[2021.06.22-16.11.33:621][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc10
+[2021.06.22-16.11.33:621][721]LogBlueprintUserMessages: [BP_Orc_C_10] 0
+[2021.06.22-16.11.33:621][721]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.33:708][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc11
+[2021.06.22-16.11.33:708][727]LogBlueprintUserMessages: [BP_Orc_C_11] 50
+[2021.06.22-16.11.33:722][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc11
+[2021.06.22-16.11.33:723][728]LogBlueprintUserMessages: [BP_Orc_C_11] 0
+[2021.06.22-16.11.33:723][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.33:724][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc14
+[2021.06.22-16.11.33:724][728]LogBlueprintUserMessages: [BP_Orc_C_14] 50
+[2021.06.22-16.11.33:742][729]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc14
+[2021.06.22-16.11.33:742][729]LogBlueprintUserMessages: [BP_Orc_C_14] 0
+[2021.06.22-16.11.33:743][729]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.34:148][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 3
+[2021.06.22-16.11.34:871][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 1
+[2021.06.22-16.11.34:888][806]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc13
+[2021.06.22-16.11.34:888][806]LogBlueprintUserMessages: [BP_Orc_C_13] 50
+[2021.06.22-16.11.34:904][807]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BP_Orc13
+[2021.06.22-16.11.34:904][807]LogBlueprintUserMessages: [BP_Orc_C_13] 0
+[2021.06.22-16.11.34:904][807]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property player". Blueprint:  BP_WaveManager Function:  Execute Ubergraph BP Wave Manager Graph:  EventGraph Node:  Reward Exp
+[2021.06.22-16.11.35:390][839]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack 2
+[2021.06.22-16.11.36:816][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-16.11.36:817][931]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.22-16.11.36:817][931]LogSlate: Window 'ProjetFin2eAnnee Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.22-16.11.36:827][931]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-16.11.36:828][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.11.36:855][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-16.11.36:910][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-16.11.36:941][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.22-16.11.36:941][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.11.36:943][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-16.11.36:966][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.06.22-16.11.37:171][932]LogPlayLevel: Display: Destroying online subsystem :Context_46
