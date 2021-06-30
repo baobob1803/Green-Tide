@@ -3928,3 +3928,990 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-15.15.39:506][392]AssetCheck: New page: Asset Save: MainMenuLevel
 [2021.06.30-15.15.39:506][392]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
 [2021.06.30-15.15.42:112][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.30-15.16.52:846][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Branch
+[2021.06.30-15.17.08:236][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.17.08:236][992]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.17.08:236][992]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.17.08:236][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.17.08:247][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.17.08:252][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.17.08:288][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-15.17.08:288][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.17.08:290][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.17.08:310][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.17.08:314][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.06.30-15.17.08:460][993]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.06.30-15.17.10:120][ 77]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.17.10:131][ 77]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.17.15:681][402]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.17.52:236][485]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.17.52:305][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.06.30-15.17.53:118][522]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile8371FC814BBD7BAE575007B5FE74F547.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.17.53:144][522]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.17.53:144][522]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.17.59:854][916]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.30-15.18.01:170][995]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.18.01:247][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.06.30-15.18.01:692][  7]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile76DF79BA40F6453952D3F19C59A8DF59.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.18.01:712][  7]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.18.01:712][  7]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.18.02:551][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.06.30-15.18.02:592][ 53]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel4640F1254E57FA4EAC67D5B4169E254E.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.18.02:615][ 53]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.18.02:616][ 53]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.18.03:418][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.18.03:434][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.18.03:434][ 99]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:18:03)
+[2021.06.30-15.18.03:434][ 99]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.18.03:435][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2021.06.30-15.18.03:436][ 99]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.18.03:437][ 99]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2021.06.30-15.18.03:437][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002127s)
+[2021.06.30-15.18.03:477][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.06.30-15.18.03:477][ 99]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2021.06.30-15.18.03:477][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.18.03:477][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.18.03:477][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.18.03:478][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.18.03:478][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.18.03:478][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.18.03:478][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.18.03:478][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.18.03:478][ 99]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.18.03:478][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.18.03:484][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.18.03:484][ 99]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.18.03:499][ 99]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.18.03:499][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.18.03:499][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.18.03:499][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.18.03:500][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.18.03:500][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.18.03:500][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.18.03:520][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.18.03:521][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.18.03:521][ 99]LogInit: FAudioDevice initialized.
+[2021.06.30-15.18.03:521][ 99]LogAudio: Display: Audio Device (ID: 48) registered with world 'MainMenuLevel'.
+[2021.06.30-15.18.03:530][ 99]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.18.03:531][ 99]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.18.03
+[2021.06.30-15.18.03:531][ 99]LogWorld: Bringing up level for play took: 0.000339
+[2021.06.30-15.18.03:532][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.06.30-15.18.03:534][ 99]PIE: Server logged in
+[2021.06.30-15.18.03:535][ 99]PIE: Play in editor total start time 0,108 seconds.
+[2021.06.30-15.18.05:000][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Branch
+[2021.06.30-15.18.48:567][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.18.48:567][795]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.18.48:567][795]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.18.48:567][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.18.48:576][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.18.48:582][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.18.48:620][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.18.48:620][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.18.48:622][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.18.48:644][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.06.30-15.18.48:766][796]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.06.30-15.18.56:336][219]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.18.56:344][219]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.19.07:843][902]LogEditorTransaction: Undo Create Pin Link
+[2021.06.30-15.19.08:177][910]LogEditorTransaction: Undo Delete current selection
+[2021.06.30-15.19.14:191][236]BlueprintLog: New page: Compile BP_MainMenuManager
+[2021.06.30-15.19.14:338][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.06.30-15.19.15:788][260]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/BP_MainMenuManager4FC7A30145B3715DF34871B2EF7E1BD7.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/00_Manager/BP_MainMenuManager.uasset'
+[2021.06.30-15.19.15:800][260]AssetCheck: New page: Asset Save: BP_MainMenuManager
+[2021.06.30-15.19.15:800][260]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/Blueprints/00_Manager/BP_MainMenuManager.BP_MainMenuManager
+[2021.06.30-15.19.16:676][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.06.30-15.19.16:699][308]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel1B727BED4A4B19B12078D6B1F5DCCAB2.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.19.16:725][308]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.19.16:725][308]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.19.17:300][338]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.19.17:317][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.19.17:317][338]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:19:17)
+[2021.06.30-15.19.17:317][338]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.19.17:318][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000956s)
+[2021.06.30-15.19.17:319][338]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.19.17:320][338]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2021.06.30-15.19.17:320][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002407s)
+[2021.06.30-15.19.17:362][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.06.30-15.19.17:362][338]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2021.06.30-15.19.17:362][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.19.17:362][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.19.17:362][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.19.17:362][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.19.17:362][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.19.17:363][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.19.17:363][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.19.17:363][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.19.17:363][338]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.19.17:363][338]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.19.17:368][338]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.19.17:368][338]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.19.17:383][338]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.19.17:384][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.19.17:384][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.19.17:384][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.19.17:384][338]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.19.17:384][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.19.17:384][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.19.17:400][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.19.17:400][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.19.17:400][338]LogInit: FAudioDevice initialized.
+[2021.06.30-15.19.17:400][338]LogAudio: Display: Audio Device (ID: 49) registered with world 'MainMenuLevel'.
+[2021.06.30-15.19.17:413][338]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.19.17:415][338]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.19.17
+[2021.06.30-15.19.17:415][338]LogWorld: Bringing up level for play took: 0.000316
+[2021.06.30-15.19.17:415][338]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.06.30-15.19.17:418][338]PIE: Server logged in
+[2021.06.30-15.19.17:419][338]PIE: Play in editor total start time 0,109 seconds.
+[2021.06.30-15.19.18:701][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.19.31:615][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.19.31:615][169]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.19.31:616][169]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.19.31:616][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.19.31:623][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.19.31:628][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.19.31:667][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.19.31:667][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.19.31:668][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.19.31:691][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.06.30-15.19.31:829][170]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.06.30-15.19.33:047][229]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.19.33:063][229]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.20.08:611][216]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.20.08:675][216]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.06.30-15.20.09:244][236]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile8F2B11DE45927DF095AAB18895331A71.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.20.09:258][236]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.20.09:258][236]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.20.10:163][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.06.30-15.20.10:187][285]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel12DA9EF1465D5057CC429F852C6FBC14.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.20.10:215][285]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.20.10:215][285]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.20.22:274][873]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.20.22:337][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.06.30-15.20.22:928][896]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfileD305E32246515DF5B07A5A8C092F16E1.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.20.22:941][896]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.20.22:941][896]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.20.30:495][342]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.20.30:496][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.20.30:506][342]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.20.30:506][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.20.32:314][444]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.20.32:314][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.20.32:324][444]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.20.32:324][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.20.34:099][540]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.20.34:099][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.20.34:110][540]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.20.34:110][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.23.11:368][170]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.23.11:460][170]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.06.30-15.23.11:929][184]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile85B21C14498156864E28289FE0AC8D4F.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.23.11:942][184]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.23.11:942][184]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.23.13:063][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.06.30-15.23.13:089][241]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel95F3772B42DCE330A5FF20B458A6AA39.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.23.13:115][241]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.23.13:115][241]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.23.36:943][633]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.23.36:997][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.06.30-15.23.37:661][653]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile652AC0454C926335A4ABB6A7268EF9A1.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.23.37:686][653]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.23.37:686][653]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.24.06:373][363]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.24.06:446][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.30-15.24.07:022][383]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfileB378B896415FFE5E1B83DDA1441B428E.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.24.07:047][383]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.24.07:047][383]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.24.08:183][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.30-15.24.08:207][447]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel372DD54F4BF8755DFCB5F7828493E659.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.24.08:230][447]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.24.08:230][447]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.24.23:041][330]LogEditorTransaction: Undo Move Nodes
+[2021.06.30-15.25.29:377][265]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.25.29:447][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.06.30-15.25.29:961][280]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile59E7EC3443CE7916F1A9D2AACA76D56E.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.25.29:984][280]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.25.29:984][280]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.25.31:105][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.06.30-15.25.31:145][339]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel5A8EB30E46FD910FEFE4B58827F78F29.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.25.31:166][339]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.25.31:167][339]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.27.11:729][118]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.27.11:789][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.06.30-15.27.12:505][148]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile18303A7E4641725DB31D3DB3D0AE377D.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.27.12:516][148]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.27.12:516][148]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.27.14:035][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.06.30-15.27.14:061][236]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevelAD6CB47F4818A9066A65909233D80D4C.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.27.14:083][236]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.27.14:083][236]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.27.58:071][862]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.27.58:125][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.06.30-15.27.58:729][885]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile01624BFB45876BCF9E33188903BF2A45.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.27.58:739][885]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.27.58:740][885]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.28.00:395][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.06.30-15.28.00:417][977]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevelA3052C2F4275E0CCA1219DBFACC967ED.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.28.00:439][977]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.28.00:439][977]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.28.01:919][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.28.01:935][ 64]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.30-15.28.01:937][ 64]LogPlayLevel: [PlayLevel] Compiling UI_CharacterButton before play...
+[2021.06.30-15.28.02:006][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.06.30-15.28.02:006][ 64]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2021.06.30-15.28.02:006][ 64]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:28:02)
+[2021.06.30-15.28.02:007][ 64]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.28.02:008][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001149s)
+[2021.06.30-15.28.02:009][ 64]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.28.02:009][ 64]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2021.06.30-15.28.02:009][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002651s)
+[2021.06.30-15.28.02:042][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.06.30-15.28.02:042][ 64]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2021.06.30-15.28.02:042][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.28.02:042][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.28.02:042][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.28.02:042][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.28.02:043][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.28.02:043][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.28.02:043][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.28.02:043][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.28.02:043][ 64]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.28.02:043][ 64]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.28.02:050][ 64]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.28.02:050][ 64]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.28.02:066][ 64]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.28.02:067][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.28.02:067][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.28.02:067][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.28.02:067][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.28.02:067][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.28.02:067][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.28.02:082][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.28.02:082][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.28.02:082][ 64]LogInit: FAudioDevice initialized.
+[2021.06.30-15.28.02:082][ 64]LogAudio: Display: Audio Device (ID: 50) registered with world 'MainMenuLevel'.
+[2021.06.30-15.28.02:094][ 64]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.28.02:095][ 64]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.28.02
+[2021.06.30-15.28.02:095][ 64]LogWorld: Bringing up level for play took: 0.000352
+[2021.06.30-15.28.02:095][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.06.30-15.28.02:098][ 64]PIE: Server logged in
+[2021.06.30-15.28.02:099][ 64]PIE: Play in editor total start time 0,171 seconds.
+[2021.06.30-15.28.04:248][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.28.16:236][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.28.16:242][912]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.28.16:242][912]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.28.16:242][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.28.16:251][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.28.16:257][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.28.16:286][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.28.16:287][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.28.16:288][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.28.16:310][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.06.30-15.28.16:474][913]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.06.30-15.28.17:602][972]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.28.17:608][972]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.28.18:687][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.30-15.28.18:713][ 33]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel8FB6816F41125690FF82A2A284925F7D.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.28.18:736][ 33]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.28.18:736][ 33]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.28.54:804][158]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.06.30-15.28.59:921][443]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.28.59:979][443]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.06.30-15.29.00:566][458]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile7BED0E12451F5D3A62CDF9A052FEAF3A.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.29.00:580][458]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.29.00:580][458]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.30.49:125][657]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.30-15.31.37:702][374]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.31.37:781][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.06.30-15.31.38:438][394]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfileAD2BB06D49B0771D3DC41CBD626AAEC6.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.31.38:463][394]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.31.38:463][394]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.31.47:388][916]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 240916
+[2021.06.30-15.31.47:389][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.31.47:404][917]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.30-15.31.47:405][917]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.30-15.31.47:410][917]LogSlate: Took 0.000578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.30-15.31.47:411][917]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.30-15.31.47:413][917]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.30-15.31.47:420][917]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.30-15.32.25:690][187]LogSlate: Took 0.002867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.30-15.33.40:883][177]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.33.40:955][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.06.30-15.33.41:472][194]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile2AAEFAF946437337F7D6C08D87590454.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.33.41:499][194]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.33.41:499][194]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.33.41:821][210]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.30-15.33.42:591][253]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2021.06.30-15.33.42:614][253]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevelFE33968A45A11BF05C1482A03C564FE5.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.33.42:638][253]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.33.42:638][253]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.33.43:581][308]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.33.43:598][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.33.43:598][308]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:33:43)
+[2021.06.30-15.33.43:627][308]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.33.43:629][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001202s)
+[2021.06.30-15.33.43:630][308]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.33.43:630][308]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2021.06.30-15.33.43:630][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002676s)
+[2021.06.30-15.33.43:667][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.06.30-15.33.43:668][308]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2021.06.30-15.33.43:668][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.33.43:668][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.33.43:668][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.33.43:668][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.33.43:669][308]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.33.43:669][308]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.33.43:669][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.33.43:669][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.33.43:669][308]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.33.43:669][308]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.33.43:675][308]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.33.43:675][308]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.33.43:691][308]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.33.43:692][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.33.43:692][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.33.43:692][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.33.43:693][308]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.33.43:693][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.33.43:693][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.33.43:708][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.33.43:708][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.33.43:708][308]LogInit: FAudioDevice initialized.
+[2021.06.30-15.33.43:708][308]LogAudio: Display: Audio Device (ID: 51) registered with world 'MainMenuLevel'.
+[2021.06.30-15.33.43:721][308]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.33.43:722][308]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.33.43
+[2021.06.30-15.33.43:722][308]LogWorld: Bringing up level for play took: 0.000352
+[2021.06.30-15.33.43:722][308]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.06.30-15.33.43:725][308]PIE: Server logged in
+[2021.06.30-15.33.43:726][308]PIE: Play in editor total start time 0,136 seconds.
+[2021.06.30-15.33.45:192][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.34.40:635][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.34.40:635][718]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.34.40:635][718]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.34.40:635][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.34.40:641][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.34.40:647][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.34.40:678][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-15.34.40:678][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.34.40:680][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.34.40:709][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.34.40:712][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.30-15.34.40:851][719]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.06.30-15.34.42:064][782]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.34.42:071][782]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.35.03:918][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.30-15.35.10:667][450]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.30-15.35.12:465][558]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.35.12:518][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.06.30-15.35.13:258][589]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile4E81B92D4EBB51E01F0869B253E749D9.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.35.13:269][589]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.35.13:269][589]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.35.14:272][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.06.30-15.35.14:298][646]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevelDA163BD546BA423DEE72D6BD241C5345.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.35.14:319][646]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.35.14:319][646]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.36.06:097][302]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.30-15.36.28:545][589]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/BP_MainMenuManagerD10EE0FF498940753216C3ADD68C28EC.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/00_Manager/BP_MainMenuManager.uasset'
+[2021.06.30-15.36.28:556][589]AssetCheck: New page: Asset Save: BP_MainMenuManager
+[2021.06.30-15.36.28:556][589]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/Blueprints/00_Manager/BP_MainMenuManager.BP_MainMenuManager
+[2021.06.30-15.36.35:184][983]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.36.35:201][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.36.35:201][983]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:36:35)
+[2021.06.30-15.36.35:201][983]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.36.35:203][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001633s)
+[2021.06.30-15.36.35:204][983]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.36.35:204][983]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2021.06.30-15.36.35:204][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002899s)
+[2021.06.30-15.36.35:237][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.06.30-15.36.35:242][983]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2021.06.30-15.36.35:242][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.36.35:242][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.36.35:243][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.36.35:243][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.36.35:243][983]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.36.35:243][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.36.35:243][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.36.35:243][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.36.35:243][983]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.36.35:243][983]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.36.35:249][983]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.36.35:249][983]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.36.35:263][983]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.36.35:263][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.36.35:263][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.36.35:263][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.36.35:264][983]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.36.35:264][983]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.36.35:264][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.36.35:280][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.36.35:280][983]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.36.35:280][983]LogInit: FAudioDevice initialized.
+[2021.06.30-15.36.35:280][983]LogAudio: Display: Audio Device (ID: 52) registered with world 'MainMenuLevel'.
+[2021.06.30-15.36.35:288][983]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.36.35:289][983]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.36.35
+[2021.06.30-15.36.35:289][983]LogWorld: Bringing up level for play took: 0.000409
+[2021.06.30-15.36.35:289][983]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.06.30-15.36.35:292][983]PIE: Server logged in
+[2021.06.30-15.36.35:293][983]PIE: Play in editor total start time 0,1 seconds.
+[2021.06.30-15.36.37:057][ 89]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.37.00:294][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.37.00:294][481]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.37.00:294][481]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.37.00:294][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.37.00:304][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.37.00:310][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.37.00:340][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.37.00:341][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.37.00:342][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.37.00:364][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.06.30-15.37.00:499][482]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.06.30-15.37.02:447][586]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.37.02:455][586]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.37.05:237][749]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.UI_CharacterButton
+[2021.06.30-15.37.15:311][327]BlueprintLog: New page: Compile UI_CharacterButton
+[2021.06.30-15.37.15:362][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.06.30-15.37.18:891][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.06.30-15.37.18:917][525]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel986891B24966F9F92736BEAADE00EF08.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.37.18:942][525]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.37.18:942][525]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.37.20:179][593]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.37.20:194][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.37.20:194][593]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:37:20)
+[2021.06.30-15.37.20:194][593]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.37.20:196][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001099s)
+[2021.06.30-15.37.20:196][593]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.37.20:197][593]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2021.06.30-15.37.20:197][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002520s)
+[2021.06.30-15.37.20:235][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.06.30-15.37.20:236][593]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.06.30-15.37.20:236][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.37.20:236][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.37.20:236][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.37.20:236][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.37.20:236][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.37.20:236][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.37.20:236][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.37.20:236][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.37.20:237][593]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.37.20:237][593]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.37.20:243][593]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.37.20:243][593]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.37.20:257][593]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.37.20:257][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.37.20:257][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.37.20:257][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.37.20:258][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.37.20:258][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.37.20:258][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.37.20:274][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.37.20:274][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.37.20:274][593]LogInit: FAudioDevice initialized.
+[2021.06.30-15.37.20:274][593]LogAudio: Display: Audio Device (ID: 53) registered with world 'MainMenuLevel'.
+[2021.06.30-15.37.20:283][593]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.37.20:284][593]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.37.20
+[2021.06.30-15.37.20:285][593]LogWorld: Bringing up level for play took: 0.000324
+[2021.06.30-15.37.20:285][593]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.06.30-15.37.20:287][593]PIE: Server logged in
+[2021.06.30-15.37.20:288][593]PIE: Play in editor total start time 0,101 seconds.
+[2021.06.30-15.37.22:156][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.37.29:468][141]LogBlueprintUserMessages: [BP_MainMenuManager_4] cannot submit an empty name
+[2021.06.30-15.37.30:936][229]LogBlueprintUserMessages: [BP_MainMenuManager_4] A character with this name already exists
+[2021.06.30-15.37.36:053][536]LogBlueprintUserMessages: [BP_MainMenuManager_4] A character with this name already exists
+[2021.06.30-15.37.42:745][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.37.42:745][935]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.37.42:745][935]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.37.42:745][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.37.42:756][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.37.42:762][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.37.42:795][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.37.42:795][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.37.42:797][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.37.42:819][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.06.30-15.37.42:949][936]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.06.30-15.37.47:905][222]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.37.47:913][222]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.38.12:686][639]BlueprintLog: New page: Compile UI_CharacterButton
+[2021.06.30-15.38.12:737][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.06.30-15.38.13:256][657]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_CharacterButton826DBD3142D64A6D3BE241A470A5BD50.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.uasset'
+[2021.06.30-15.38.13:289][657]AssetCheck: New page: Asset Save: UI_CharacterButton
+[2021.06.30-15.38.13:289][657]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.UI_CharacterButton
+[2021.06.30-15.39.08:744][813]BlueprintLog: New page: Compile UI_CharacterButton
+[2021.06.30-15.39.08:823][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.06.30-15.39.09:283][831]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_CharacterButton9D75DCC946E0C4DA6029A89181137120.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.uasset'
+[2021.06.30-15.39.09:307][831]AssetCheck: New page: Asset Save: UI_CharacterButton
+[2021.06.30-15.39.09:307][831]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.UI_CharacterButton
+[2021.06.30-15.39.10:277][889]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.39.10:297][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.39.10:297][889]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:39:10)
+[2021.06.30-15.39.10:297][889]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.39.10:298][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000982s)
+[2021.06.30-15.39.10:300][889]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.39.10:300][889]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2021.06.30-15.39.10:300][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002374s)
+[2021.06.30-15.39.10:341][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.06.30-15.39.10:342][889]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.06.30-15.39.10:342][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.39.10:342][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.39.10:342][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.39.10:342][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.39.10:342][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.39.10:342][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.39.10:342][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.39.10:342][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.39.10:343][889]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.39.10:343][889]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.39.10:348][889]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.39.10:348][889]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.39.10:364][889]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.39.10:364][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.39.10:364][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.39.10:364][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.39.10:364][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.39.10:364][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.39.10:364][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.39.10:381][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.39.10:381][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.39.10:381][889]LogInit: FAudioDevice initialized.
+[2021.06.30-15.39.10:381][889]LogAudio: Display: Audio Device (ID: 54) registered with world 'MainMenuLevel'.
+[2021.06.30-15.39.10:394][889]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.39.10:395][889]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.39.10
+[2021.06.30-15.39.10:396][889]LogWorld: Bringing up level for play took: 0.000325
+[2021.06.30-15.39.10:396][889]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.06.30-15.39.10:398][889]PIE: Server logged in
+[2021.06.30-15.39.10:399][889]PIE: Play in editor total start time 0,11 seconds.
+[2021.06.30-15.39.11:580][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.39.32:724][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.39.32:724][224]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.39.32:725][224]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.39.32:725][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.39.32:734][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.39.32:741][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.39.32:775][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-15.39.32:775][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.39.32:776][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.39.32:793][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.39.32:798][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.06.30-15.39.32:932][225]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.06.30-15.39.34:090][285]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.39.34:103][285]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.40.29:639][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.06.30-15.40.29:681][841]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevelDC472120455F6A920DE869A09E6F3489.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.40.29:706][841]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.40.29:706][841]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.40.30:197][871]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.40.30:211][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.40.30:212][871]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:40:30)
+[2021.06.30-15.40.30:212][871]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.40.30:213][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000994s)
+[2021.06.30-15.40.30:214][871]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.40.30:214][871]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2021.06.30-15.40.30:214][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002175s)
+[2021.06.30-15.40.30:249][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.06.30-15.40.30:249][871]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2021.06.30-15.40.30:249][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.40.30:249][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.40.30:249][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.40.30:250][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.40.30:250][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.40.30:250][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.40.30:250][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.40.30:250][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.40.30:250][871]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.40.30:250][871]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.40.30:256][871]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.40.30:256][871]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.40.30:271][871]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.40.30:271][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.40.30:271][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.40.30:271][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.40.30:272][871]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.40.30:272][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.40.30:272][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.40.30:287][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.40.30:288][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.40.30:288][871]LogInit: FAudioDevice initialized.
+[2021.06.30-15.40.30:288][871]LogAudio: Display: Audio Device (ID: 55) registered with world 'MainMenuLevel'.
+[2021.06.30-15.40.30:303][871]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.40.30:304][871]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.40.30
+[2021.06.30-15.40.30:304][871]LogWorld: Bringing up level for play took: 0.000313
+[2021.06.30-15.40.30:304][871]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.06.30-15.40.30:308][871]PIE: Server logged in
+[2021.06.30-15.40.30:309][871]PIE: Play in editor total start time 0,105 seconds.
+[2021.06.30-15.40.31:457][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.40.48:227][946]LogBlueprintUserMessages: [BP_MainMenuManager_4] A character with this name already exists
+[2021.06.30-15.40.50:144][ 61]LogBlueprintUserMessages: [BP_MainMenuManager_4] A character with this name already exists
+[2021.06.30-15.41.11:834][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.41.11:834][345]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.41.11:834][345]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.41.11:834][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.41.11:843][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.41.11:849][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.41.11:881][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.41.11:881][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.41.11:882][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.41.11:905][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.06.30-15.41.12:052][346]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.06.30-15.41.19:951][795]BlueprintLog: New page: Compile UI_CharacterButton
+[2021.06.30-15.41.20:003][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.06.30-15.41.20:487][809]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_CharacterButtonF54E16F34C58181CEC3F07ACB9EC0197.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.uasset'
+[2021.06.30-15.41.20:512][809]AssetCheck: New page: Asset Save: UI_CharacterButton
+[2021.06.30-15.41.20:512][809]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.UI_CharacterButton
+[2021.06.30-15.41.21:523][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.06.30-15.41.21:551][862]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevelB9FD392D416697A848BD90A525741FC7.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.41.21:579][862]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.41.21:579][862]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.41.24:619][ 42]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.41.24:626][ 42]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.41.48:447][446]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.41.48:509][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.06.30-15.41.49:117][464]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile283027BF47CB828E04C7F681DEC719BC.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.41.49:131][464]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.41.49:131][464]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.42.13:728][631]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.42.13:804][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.06.30-15.42.14:378][642]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile8733EE864887DFB104A2C2AB05A1E8D9.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.42.14:392][642]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.42.14:392][642]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.42.24:597][250]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.42.24:669][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.06.30-15.42.25:393][274]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfileCF32D87C4CF47AD0A4AAF2B3DE754068.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.42.25:408][274]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.42.25:408][274]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.42.27:955][426]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.42.27:971][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.42.27:971][426]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:42:27)
+[2021.06.30-15.42.27:971][426]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.42.27:972][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000966s)
+[2021.06.30-15.42.27:973][426]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.42.27:973][426]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2021.06.30-15.42.27:973][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002324s)
+[2021.06.30-15.42.28:013][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.06.30-15.42.28:013][426]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2021.06.30-15.42.28:013][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.42.28:013][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.42.28:013][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.42.28:014][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.42.28:014][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.42.28:014][426]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.42.28:014][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.42.28:014][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.42.28:014][426]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.42.28:014][426]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.42.28:020][426]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.42.28:020][426]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.42.28:034][426]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.42.28:034][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.42.28:034][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.42.28:034][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.42.28:035][426]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.42.28:035][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.42.28:035][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.42.28:050][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.42.28:050][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.42.28:051][426]LogInit: FAudioDevice initialized.
+[2021.06.30-15.42.28:051][426]LogAudio: Display: Audio Device (ID: 56) registered with world 'MainMenuLevel'.
+[2021.06.30-15.42.28:059][426]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.42.28:059][426]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.42.28
+[2021.06.30-15.42.28:059][426]LogWorld: Bringing up level for play took: 0.000355
+[2021.06.30-15.42.28:059][426]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.06.30-15.42.28:062][426]PIE: Server logged in
+[2021.06.30-15.42.28:063][426]PIE: Play in editor total start time 0,1 seconds.
+[2021.06.30-15.42.29:527][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.42.38:344][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.42.38:344][ 39]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.42.38:344][ 39]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.42.38:345][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.42.38:356][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.42.38:363][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.42.38:396][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.42.38:396][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.42.38:398][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.42.38:426][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.06.30-15.42.38:576][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.06.30-15.42.44:193][354]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.42.44:200][354]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.43.55:549][394]BlueprintLog: New page: Compile UI_ProfileMenu
+[2021.06.30-15.43.55:608][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.06.30-15.43.56:175][425]BlueprintLog: New page: Compile UI_ProfileMenu
+[2021.06.30-15.43.56:232][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.06.30-15.44.06:144][984]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.44.06:201][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.06.30-15.44.09:493][165]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.44.09:508][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.44.09:508][165]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:44:09)
+[2021.06.30-15.44.09:508][165]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.44.09:509][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000931s)
+[2021.06.30-15.44.09:510][165]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.44.09:510][165]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2021.06.30-15.44.09:510][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002082s)
+[2021.06.30-15.44.09:548][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.06.30-15.44.09:549][165]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2021.06.30-15.44.09:549][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.44.09:549][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.44.09:549][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.44.09:549][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.44.09:549][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.44.09:549][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.44.09:549][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.44.09:549][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.44.09:549][165]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.44.09:549][165]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.44.09:555][165]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.44.09:555][165]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.44.09:569][165]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.44.09:569][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.44.09:569][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.44.09:569][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.44.09:570][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.44.09:570][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.44.09:570][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.44.09:585][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.44.09:585][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.44.09:585][165]LogInit: FAudioDevice initialized.
+[2021.06.30-15.44.09:585][165]LogAudio: Display: Audio Device (ID: 57) registered with world 'MainMenuLevel'.
+[2021.06.30-15.44.09:597][165]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.44.09:598][165]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.44.09
+[2021.06.30-15.44.09:599][165]LogWorld: Bringing up level for play took: 0.000483
+[2021.06.30-15.44.09:599][165]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.06.30-15.44.09:602][165]PIE: Server logged in
+[2021.06.30-15.44.09:602][165]PIE: Play in editor total start time 0,101 seconds.
+[2021.06.30-15.44.13:316][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.45.34:834][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.45.34:834][228]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.45.34:834][228]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.45.34:834][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.45.34:854][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.45.34:860][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.45.34:895][228]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-15.45.34:896][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.45.34:897][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.45.34:918][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.45.34:921][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.06.30-15.45.35:060][229]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.06.30-15.45.35:350][237]BlueprintLog: New page: Compile UI_CharacterButton
+[2021.06.30-15.45.35:405][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.06.30-15.45.35:994][258]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_CharacterButton401CB82D44EFA779D50A33A34134C0E9.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.uasset'
+[2021.06.30-15.45.36:009][258]AssetCheck: New page: Asset Save: UI_CharacterButton
+[2021.06.30-15.45.36:010][258]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_CharacterButton.UI_CharacterButton
+[2021.06.30-15.45.36:957][315]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.45.36:961][315]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.45.39:145][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.30-15.45.39:167][441]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel90EDBC1047651D03E91CA891B62D9100.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.45.39:193][441]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.45.39:193][441]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.45.39:807][477]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.45.39:821][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.45.39:821][477]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:45:39)
+[2021.06.30-15.45.39:821][477]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.45.39:822][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001009s)
+[2021.06.30-15.45.39:823][477]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.45.39:823][477]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2021.06.30-15.45.39:823][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002149s)
+[2021.06.30-15.45.39:860][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.30-15.45.39:861][477]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2021.06.30-15.45.39:861][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.45.39:861][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.45.39:861][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.45.39:861][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.45.39:861][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.45.39:861][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.45.39:861][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.45.39:861][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.45.39:861][477]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.45.39:861][477]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.45.39:867][477]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.45.39:867][477]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.45.39:882][477]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.45.39:883][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.45.39:883][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.45.39:883][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.45.39:883][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.45.39:883][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.45.39:883][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.45.39:899][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.45.39:899][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.45.39:899][477]LogInit: FAudioDevice initialized.
+[2021.06.30-15.45.39:899][477]LogAudio: Display: Audio Device (ID: 58) registered with world 'MainMenuLevel'.
+[2021.06.30-15.45.39:914][477]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.45.39:915][477]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.45.39
+[2021.06.30-15.45.39:915][477]LogWorld: Bringing up level for play took: 0.000290
+[2021.06.30-15.45.39:916][477]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2021.06.30-15.45.39:918][477]PIE: Server logged in
+[2021.06.30-15.45.39:919][477]PIE: Play in editor total start time 0,104 seconds.
+[2021.06.30-15.45.41:184][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.45.54:243][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.45.54:243][332]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.45.54:243][332]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.45.54:244][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.45.54:251][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.45.54:257][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.45.54:291][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.45.54:291][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.45.54:292][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.45.54:315][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.06.30-15.45.54:440][333]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.06.30-15.45.55:592][392]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.45.55:597][392]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.45.57:869][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.06.30-15.45.57:895][525]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevelD06EDE8A4DC57F150FDFEA920955D9C5.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.45.57:916][525]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.45.57:917][525]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.46.14:456][830]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.46.14:472][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.46.14:472][830]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:46:14)
+[2021.06.30-15.46.14:472][830]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.46.14:473][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001513s)
+[2021.06.30-15.46.14:475][830]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.46.14:475][830]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2021.06.30-15.46.14:475][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003179s)
+[2021.06.30-15.46.14:513][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.06.30-15.46.14:515][830]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2021.06.30-15.46.14:515][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.46.14:515][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.46.14:515][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.46.14:515][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.46.14:515][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.46.14:515][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.46.14:515][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.46.14:515][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.46.14:516][830]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.46.14:516][830]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.46.14:522][830]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.46.14:522][830]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.46.14:537][830]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.46.14:537][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.46.14:537][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.46.14:537][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.46.14:537][830]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.46.14:537][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.46.14:537][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.46.14:558][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.46.14:558][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.46.14:558][830]LogInit: FAudioDevice initialized.
+[2021.06.30-15.46.14:559][830]LogAudio: Display: Audio Device (ID: 59) registered with world 'MainMenuLevel'.
+[2021.06.30-15.46.14:570][830]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.46.14:572][830]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.46.14
+[2021.06.30-15.46.14:572][830]LogWorld: Bringing up level for play took: 0.000416
+[2021.06.30-15.46.14:572][830]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.06.30-15.46.14:576][830]PIE: Server logged in
+[2021.06.30-15.46.14:577][830]PIE: Play in editor total start time 0,114 seconds.
+[2021.06.30-15.46.19:661][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CreateNewProfileMenuReference". Blueprint:  BP_MainMenuManager Function:  Execute Ubergraph BP Main Menu Manager Graph:  Profile List Menu Node:  Remove from Parent
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3BEBAAD-41EA-E896-223D-63A2A03C51D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=ca322fa649ed9726c3ec2dba96248a54%7Cab49d8cab7cb488bac9f29519b2a887d%7Ce7496b9a-a9d0-4982-b648-d3569070ec02&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: request failed, libcurl error: 0 (No error)
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x217224bfeb0 [can pipeline])
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.145.247.180) port 443 (#0))
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 7 (Closing connection 0)
+[2021.06.30-15.46.23:553][369]LogHttp: Warning: 0000021705EC7200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.06.30-15.46.23:570][370]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3BEBAAD-41EA-E896-223D-63A2A03C51D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=ca322fa649ed9726c3ec2dba96248a54%7Cab49d8cab7cb488bac9f29519b2a887d%7Ce7496b9a-a9d0-4982-b648-d3569070ec02&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.30-15.47.12:756][292]LogRenderer: Reallocating scene render targets to support 1400x860 Format 10 NumSamples 1 (Frame:3451).
+[2021.06.30-15.47.12:798][293]LogRenderer: Reallocating scene render targets to support 1408x860 Format 10 NumSamples 1 (Frame:3452).
+[2021.06.30-15.47.12:844][294]LogRenderer: Reallocating scene render targets to support 1432x860 Format 10 NumSamples 1 (Frame:3453).
+[2021.06.30-15.47.12:884][295]LogRenderer: Reallocating scene render targets to support 1448x860 Format 10 NumSamples 1 (Frame:3454).
+[2021.06.30-15.47.12:929][296]LogRenderer: Reallocating scene render targets to support 1460x860 Format 10 NumSamples 1 (Frame:3455).
+[2021.06.30-15.47.12:971][297]LogRenderer: Reallocating scene render targets to support 1476x860 Format 10 NumSamples 1 (Frame:3456).
+[2021.06.30-15.47.13:019][298]LogRenderer: Reallocating scene render targets to support 1492x860 Format 10 NumSamples 1 (Frame:3457).
+[2021.06.30-15.47.13:058][299]LogRenderer: Reallocating scene render targets to support 1500x860 Format 10 NumSamples 1 (Frame:3458).
+[2021.06.30-15.48.12:606][693]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_ProfileMenuF5CC60844C381ED32C97098D2A57E5E4.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/CreateProfileMenu/UI_ProfileMenu.uasset'
+[2021.06.30-15.48.12:617][693]AssetCheck: New page: Asset Save: UI_ProfileMenu
+[2021.06.30-15.48.12:617][693]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/CreateProfileMenu/UI_ProfileMenu.UI_ProfileMenu
+[2021.06.30-15.48.13:053][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.48.13:053][717]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.48.13:053][717]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.48.13:054][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.48.13:072][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.48.13:078][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.48.13:112][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.48.13:112][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.48.13:114][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.48.13:141][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.30-15.48.13:301][718]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.06.30-15.48.13:858][728]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_ProfileMenuCE8D3AA44C3AD72F3EB1D09CC37EEBE9.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/CreateProfileMenu/UI_ProfileMenu.uasset'
+[2021.06.30-15.48.13:872][728]AssetCheck: New page: Asset Save: UI_ProfileMenu
+[2021.06.30-15.48.13:872][728]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/CreateProfileMenu/UI_ProfileMenu.UI_ProfileMenu
+[2021.06.30-15.48.14:651][775]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.48.14:659][775]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-15.48.45:245][333]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.48.45:313][333]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.06.30-15.48.45:928][349]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfileA4AA9E634168021ECD0CE88ABE0245AB.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.48.45:954][349]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.48.45:954][349]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.49.01:746][276]BlueprintLog: New page: Compile UI_ProfileMenu
+[2021.06.30-15.49.01:818][276]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.06.30-15.49.02:773][315]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_ProfileMenuF8FC3C934AD1EF8F47B8C7B73E74E251.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/CreateProfileMenu/UI_ProfileMenu.uasset'
+[2021.06.30-15.49.02:790][315]AssetCheck: New page: Asset Save: UI_ProfileMenu
+[2021.06.30-15.49.02:790][315]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/CreateProfileMenu/UI_ProfileMenu.UI_ProfileMenu
+[2021.06.30-15.49.03:745][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.06.30-15.49.03:771][368]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel8250ECA14094022D74B8DFA77676A57C.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.49.03:797][368]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.49.03:798][368]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.49.13:279][924]BlueprintLog: New page: Compile UI_InsideAProfile
+[2021.06.30-15.49.13:344][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.06.30-15.49.14:058][947]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/UI_InsideAProfile7BFE18484CB573D959C896AD6F816CA5.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.uasset'
+[2021.06.30-15.49.14:083][947]AssetCheck: New page: Asset Save: UI_InsideAProfile
+[2021.06.30-15.49.14:083][947]LogContentValidation: Display: Validating WidgetBlueprint /Game/ProjectContent/Blueprints/01_MenuPrincipal/ManageProfileMenu/UI_InsideAProfile.UI_InsideAProfile
+[2021.06.30-15.49.15:299][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.06.30-15.49.15:325][ 14]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevelB195A12948AB1335AAC9B3A09F43028C.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.49.15:352][ 14]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.49.15:353][ 14]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.49.28:310][784]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-15.49.28:327][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-15.49.28:327][784]PIE: New page: PIE session: MainMenuLevel (30 juin 2021 à 19:49:28)
+[2021.06.30-15.49.28:327][784]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.49.28:328][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000970s)
+[2021.06.30-15.49.28:329][784]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.30-15.49.28:329][784]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2021.06.30-15.49.28:329][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002210s)
+[2021.06.30-15.49.28:370][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.06.30-15.49.28:372][784]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2021.06.30-15.49.28:372][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-15.49.28:372][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-15.49.28:372][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-15.49.28:372][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-15.49.28:372][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-15.49.28:372][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-15.49.28:372][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-15.49.28:372][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-15.49.28:373][784]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-15.49.28:373][784]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-15.49.28:379][784]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-15.49.28:379][784]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-15.49.28:395][784]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.06.30-15.49.28:396][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-15.49.28:396][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-15.49.28:396][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-15.49.28:396][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-15.49.28:397][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-15.49.28:397][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-15.49.28:420][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-15.49.28:420][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-15.49.28:420][784]LogInit: FAudioDevice initialized.
+[2021.06.30-15.49.28:420][784]LogAudio: Display: Audio Device (ID: 60) registered with world 'MainMenuLevel'.
+[2021.06.30-15.49.28:428][784]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-15.49.28:429][784]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.06.30-17.49.28
+[2021.06.30-15.49.28:430][784]LogWorld: Bringing up level for play took: 0.000612
+[2021.06.30-15.49.28:430][784]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.06.30-15.49.28:433][784]PIE: Server logged in
+[2021.06.30-15.49.28:434][784]PIE: Play in editor total start time 0,115 seconds.
+[2021.06.30-15.49.46:379][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.06.30-15.49.46:405][476]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel422B76374CB27D15908CDDAD411BF1E3.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.49.46:422][476]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.49.46:422][476]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.30-15.49.47:283][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.49.47:283][522]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.30-15.49.47:284][522]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-15.49.47:284][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.49.47:293][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-15.49.47:299][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-15.49.47:336][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-15.49.47:336][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.49.47:337][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-15.49.47:363][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.06.30-15.49.47:388][523]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.06.30-15.49.48:002][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.06.30-15.49.48:026][556]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/MainMenuLevel1C782152427BE35AADE9B1A74C0BC294.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap'
+[2021.06.30-15.49.48:052][556]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.06.30-15.49.48:052][556]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
