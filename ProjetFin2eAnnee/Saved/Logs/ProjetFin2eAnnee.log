@@ -3555,3 +3555,7 @@ Purging the undo buffer...
 
 [2021.08.03-13.17.39:031][115]AssetCheck: New page: Asset Save: MainMenuLevel
 [2021.08.03-13.17.39:031][115]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.08.03-13.18.20:953][482]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.08.03-13.18.21:008][482]LogSavePackage: Moving '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/DyrkBrightwater2C1A5F17474D85589F3048BE21BD7BE2.tmp' to '../../../../../../Users/ryana/OneDrive/Bureau/Unreal/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Assets/Interface/BackgroundImages/DyrkBrightwater.uasset'
+[2021.08.03-13.18.21:032][482]AssetCheck: New page: Asset Save: DyrkBrightwater
+[2021.08.03-13.18.21:032][482]LogContentValidation: Display: Validating Texture2D /Game/ProjectContent/Assets/Interface/BackgroundImages/DyrkBrightwater.DyrkBrightwater
