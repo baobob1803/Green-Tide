@@ -9459,3 +9459,272 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.09-18.39.47:222][923]LogPlayLevel: Display: Destroying online subsystem :Context_47
 [2021.08.09-18.39.51:511][234]LogSlate: Window 'Message Log' being destroyed
 [2021.08.09-18.39.51:520][234]LogSlate: Window 'Message Log' being destroyed
+[2021.08.09-18.42.26:180][359]BlueprintLog: New page: Compile BP_Character_Master
+[2021.08.09-18.42.26:355][359]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2021.08.09-18.42.26:862][363]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master8F27A23945E213E62312CC9262FB2667.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.42.26:882][363]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.42.26:882][363]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.42.43:942][ 87]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_MasterA3DD0A6143DE34CCF7B0118765FE8063.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.42.43:970][ 87]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.42.43:970][ 87]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.43.11:104][642]BlueprintLog: New page: Compile BP_Character_Master
+[2021.08.09-18.43.11:321][642]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2021.08.09-18.43.11:873][643]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master7DA53E74407D769C475604ADF58EF695.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.43.11:893][643]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.43.11:893][643]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.43.12:932][720]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-18.43.12:941][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-18.43.12:941][720]PIE: New page: PIE session: MainMenuLevel (9 août 2021 à 22:43:12)
+[2021.08.09-18.43.12:941][720]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.09-18.43.12:943][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001553s)
+[2021.08.09-18.43.12:944][720]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.09-18.43.12:944][720]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2021.08.09-18.43.12:944][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002741s)
+[2021.08.09-18.43.12:995][720]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2021.08.09-18.43.12:996][720]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.08.09-18.43.12:996][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.43.12:996][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.43.12:996][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.43.12:996][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.43.12:996][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.43.12:996][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.43.12:996][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.43.12:996][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.43.12:997][720]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.43.12:997][720]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.43.13:003][720]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.43.13:003][720]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.43.13:047][720]LogAudioMixer: Display: Using Audio Device Casque (2- Arctis 7 Game)
+[2021.08.09-18.43.13:047][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.43.13:047][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.43.13:047][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.43.13:048][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.43.13:048][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.43.13:048][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.43.13:065][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.43.13:065][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.43.13:065][720]LogInit: FAudioDevice initialized.
+[2021.08.09-18.43.13:065][720]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenuLevel'.
+[2021.08.09-18.43.13:095][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.43.13:096][720]LogLoad: Game class is 'GameModeBase'
+[2021.08.09-18.43.13:096][720]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.08.09-20.43.13
+[2021.08.09-18.43.13:096][720]LogWorld: Bringing up level for play took: 0.000349
+[2021.08.09-18.43.13:096][720]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.08.09-18.43.13:098][720]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.09-18.43.13:107][720]PIE: Server logged in
+[2021.08.09-18.43.13:114][720]PIE: Play in editor total start time 0,174 seconds.
+[2021.08.09-18.43.19:781][189]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.09-18.43.19:782][189]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.09-18.43.19:782][189]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.09-18.43.19:782][189]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.43.19:782][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.43.19:873][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.43.19:880][189]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.08.09-18.43.19:885][189]LogAudio: Display: Audio Device (ID: 18) registered with world 'VillageLevel'.
+[2021.08.09-18.43.19:885][189]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.09-18.43.19:886][189]LogLoad: Game class is 'GameModeBase'
+[2021.08.09-18.43.19:887][189]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 0) at 2021.08.09-20.43.19
+[2021.08.09-18.43.19:887][189]LogWorld: Bringing up level for play took: 0.000483
+[2021.08.09-18.43.19:887][189]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.09-18.43.19:891][189]LogLoad: Took 0.109748 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.09-18.43.20:852][258]LogNet: Browse: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.09-18.43.20:852][258]LogLoad: LoadMap: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.09-18.43.20:852][258]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.09-18.43.20:853][258]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.43.20:853][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.43.20:895][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.43.20:901][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.08.09-18.43.20:947][258]LogAudio: Display: Audio Device (ID: 18) registered with world 'RyanMapTestLD'.
+[2021.08.09-18.43.20:948][258]LogAIModule: Creating AISystem for world RyanMapTestLD
+[2021.08.09-18.43.20:949][258]LogLoad: Game class is 'BP_ThirdPersonGameMode_Master_C'
+[2021.08.09-18.43.21:006][258]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD up for play (max tick rate 0) at 2021.08.09-20.43.21
+[2021.08.09-18.43.21:007][258]LogWorld: Bringing up level for play took: 0.057642
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint10_27.SpawnEffect after construction!
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint12.SpawnEffect after construction!
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint13.SpawnEffect after construction!
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint15.SpawnEffect after construction!
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint16.SpawnEffect after construction!
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint17.SpawnEffect after construction!
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint2.SpawnEffect after construction!
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint4.SpawnEffect after construction!
+[2021.08.09-18.43.21:073][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint6_21.SpawnEffect after construction!
+[2021.08.09-18.43.21:074][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint7_22.SpawnEffect after construction!
+[2021.08.09-18.43.21:074][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint8_23.SpawnEffect after construction!
+[2021.08.09-18.43.21:074][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint9_24.SpawnEffect after construction!
+[2021.08.09-18.43.21:074][258]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint_1.SpawnEffect after construction!
+[2021.08.09-18.43.21:074][258]LogBlueprintUserMessages: [BP_GameInstance_C_16] Room In a Row Value is : 1
+[2021.08.09-18.43.21:076][258]LogLoad: Took 0.223985 seconds to LoadMap(/Game/ProjectContent/Levels/RyanMapTestLD)
+[2021.08.09-18.43.22:865][366]LogBlueprintUserMessages: [BP_Character_Master_C_0] Pqs trouvé
+[2021.08.09-18.43.23:248][389]LogBlueprintUserMessages: [BP_Character_Master_C_0] Pqs trouvé
+[2021.08.09-18.43.23:664][414]LogBlueprintUserMessages: [BP_Character_Master_C_0] Pqs trouvé
+[2021.08.09-18.43.23:779][421]LogBlueprintUserMessages: [BP_Character_Master_C_0] Pqs trouvé
+[2021.08.09-18.43.23:847][425]LogBlueprintUserMessages: [BP_RealWaveManager_C_0] 1
+[2021.08.09-18.43.24:840][483]LogBlueprintUserMessages: [BP_Character_Master_C_0] Pqs trouvé
+[2021.08.09-18.43.25:160][502]LogBlueprintUserMessages: [BP_Character_Master_C_0] Pqs trouvé
+[2021.08.09-18.43.25:204][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.43.25:204][503]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.09-18.43.25:204][503]LogSlate: Window 'ProjetFin2eAnnee Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-18.43.25:211][503]LogWorld: UWorld::CleanupWorld for RyanMapTestLD, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.43.25:213][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.43.25:220][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-18.43.25:233][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.43.25:273][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.43.25:273][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.43.25:274][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.43.25:303][503]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.08.09-18.43.25:334][504]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.08.09-18.43.30:553][951]BlueprintLog: New page: Compile BP_Character_Master
+[2021.08.09-18.43.30:769][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.08.09-18.43.31:356][953]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_MasterF28603814D1DEE47FC8719ADA3607BA6.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.43.31:376][953]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.43.31:376][953]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.43.52:043][892]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_MasterD8ECA1C64C651FFFB2E5C3BFB061CEB8.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.43.52:064][892]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.43.52:065][892]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.43.57:102][365]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-18.43.57:111][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-18.43.57:111][365]PIE: New page: PIE session: MainMenuLevel (9 août 2021 à 22:43:57)
+[2021.08.09-18.43.57:111][365]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.09-18.43.57:113][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001083s)
+[2021.08.09-18.43.57:113][365]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.09-18.43.57:114][365]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2021.08.09-18.43.57:114][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002123s)
+[2021.08.09-18.43.57:166][365]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.08.09-18.43.57:167][365]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.08.09-18.43.57:167][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.43.57:167][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.43.57:167][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.43.57:167][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.43.57:167][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.43.57:167][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.43.57:167][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.43.57:167][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.43.57:168][365]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.43.57:168][365]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.43.57:174][365]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.43.57:174][365]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.43.57:217][365]LogAudioMixer: Display: Using Audio Device Casque (2- Arctis 7 Game)
+[2021.08.09-18.43.57:218][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.43.57:218][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.43.57:218][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.43.57:218][365]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.43.57:218][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.43.57:218][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.43.57:234][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.43.57:234][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.43.57:234][365]LogInit: FAudioDevice initialized.
+[2021.08.09-18.43.57:235][365]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenuLevel'.
+[2021.08.09-18.43.57:262][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.43.57:263][365]LogLoad: Game class is 'GameModeBase'
+[2021.08.09-18.43.57:264][365]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.08.09-20.43.57
+[2021.08.09-18.43.57:264][365]LogWorld: Bringing up level for play took: 0.000330
+[2021.08.09-18.43.57:264][365]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.08.09-18.43.57:265][365]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.09-18.43.57:274][365]PIE: Server logged in
+[2021.08.09-18.43.57:281][365]PIE: Play in editor total start time 0,171 seconds.
+[2021.08.09-18.44.03:892][867]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.09-18.44.03:892][867]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.09-18.44.03:892][867]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.09-18.44.03:893][867]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.44.03:893][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.44.03:966][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.44.03:973][867]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.08.09-18.44.03:978][867]LogAudio: Display: Audio Device (ID: 19) registered with world 'VillageLevel'.
+[2021.08.09-18.44.03:979][867]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.09-18.44.03:979][867]LogLoad: Game class is 'GameModeBase'
+[2021.08.09-18.44.03:981][867]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 0) at 2021.08.09-20.44.03
+[2021.08.09-18.44.03:981][867]LogWorld: Bringing up level for play took: 0.000838
+[2021.08.09-18.44.03:981][867]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.09-18.44.03:985][867]LogLoad: Took 0.092927 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.09-18.44.06:436][ 55]LogNet: Browse: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.09-18.44.06:436][ 55]LogLoad: LoadMap: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.09-18.44.06:436][ 55]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.09-18.44.06:436][ 55]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.44.06:436][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.44.06:507][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.44.06:513][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.08.09-18.44.06:559][ 55]LogAudio: Display: Audio Device (ID: 19) registered with world 'RyanMapTestLD'.
+[2021.08.09-18.44.06:560][ 55]LogAIModule: Creating AISystem for world RyanMapTestLD
+[2021.08.09-18.44.06:560][ 55]LogLoad: Game class is 'BP_ThirdPersonGameMode_Master_C'
+[2021.08.09-18.44.06:616][ 55]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD up for play (max tick rate 0) at 2021.08.09-20.44.06
+[2021.08.09-18.44.06:616][ 55]LogWorld: Bringing up level for play took: 0.055710
+[2021.08.09-18.44.06:679][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint10_27.SpawnEffect after construction!
+[2021.08.09-18.44.06:679][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint12.SpawnEffect after construction!
+[2021.08.09-18.44.06:679][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint13.SpawnEffect after construction!
+[2021.08.09-18.44.06:679][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint15.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint16.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint17.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint2.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint4.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint6_21.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint7_22.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint8_23.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint9_24.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogActorComponent: Warning: SetAutoActivate called on component ParticleSystemComponent /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD:PersistentLevel.TargetPoint_1.SpawnEffect after construction!
+[2021.08.09-18.44.06:680][ 55]LogBlueprintUserMessages: [BP_GameInstance_C_17] Room In a Row Value is : 1
+[2021.08.09-18.44.06:682][ 55]LogLoad: Took 0.245896 seconds to LoadMap(/Game/ProjectContent/Levels/RyanMapTestLD)
+[2021.08.09-18.44.09:430][224]LogBlueprintUserMessages: [BP_RealWaveManager_C_0] 1
+[2021.08.09-18.44.13:406][464]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.09-18.44.14:047][502]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.09-18.44.15:187][569]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.09-18.44.15:952][614]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.09-18.44.16:536][649]LogBlueprintUserMessages: [BP_Character_Master_C_0] 93.5
+[2021.08.09-18.44.17:173][688]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.09-18.44.18:180][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.44.18:180][747]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.09-18.44.18:180][747]LogSlate: Window 'ProjetFin2eAnnee Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-18.44.18:187][747]LogWorld: UWorld::CleanupWorld for RyanMapTestLD, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.44.18:190][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.44.18:196][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-18.44.18:207][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.44.18:250][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.44.18:250][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.44.18:252][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.44.18:279][747]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.08.09-18.44.18:313][748]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.08.09-18.44.48:739][531]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master509CF8C64A67113D72A4E2BDE0567D22.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.44.48:766][531]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.44.48:767][531]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.45.10:638][124]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master1495C54846BC1929CA4990B2974C0F66.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.45.10:663][124]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.45.10:663][124]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.45.46:814][212]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master707B7019448F99B3E0662598C6BC638C.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.45.46:835][212]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.45.46:835][212]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.46.40:819][ 78]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_MasterF56AB89545A3AECC928004B39CA36178.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.46.40:841][ 78]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.46.40:841][ 78]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.47.21:742][ 64]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master14A568914AB59F98F209FD91D48A3999.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.47.21:771][ 64]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.47.21:772][ 64]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.49.46:741][671]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_MasterE26C9BF74F65E3C8FA61148791602F54.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.49.46:769][671]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.49.46:769][671]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.50.13:127][962]BlueprintLog: New page: Compile BP_Character_Master
+[2021.08.09-18.50.13:353][962]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.08.09-18.50.13:917][963]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master12742D3F4D1F76499F044698F85F4821.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.50.13:939][963]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.50.13:940][963]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.50.56:795][177]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master7D7A12DA46BE4917CB6BBEB40FBEAC3A.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.50.56:817][177]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.50.56:817][177]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.51.28:432][346]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master53F0C55041A93E99A7E4ABBE63DB248D.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.51.28:458][346]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.51.28:458][346]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.51.54:682][954]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_MasterDFE9C638476E039B76A218B707BB642D.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.51.54:708][954]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.51.54:708][954]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.53.10:245][143]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_Character_Master635686694BEA8A9CED4055A580F3F46D.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/BP_Character_Master.uasset'
+[2021.08.09-18.53.10:271][143]AssetCheck: New page: Asset Save: BP_Character_Master
+[2021.08.09-18.53.10:271][143]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/BP_Character_Master.BP_Character_Master
+[2021.08.09-18.53.54:525][604]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProjectContent/Enemies/BP_RealWaveManager.BP_RealWaveManager
+[2021.08.09-18.55.32:042][505]BlueprintLog: New page: Compile BP_RealWaveManager
+[2021.08.09-18.55.32:175][505]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2021.08.09-18.55.32:520][524]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_RealWaveManagerBC7A9C8B4236F248F43023A85FEBCD9C.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/Enemies/BP_RealWaveManager.uasset'
+[2021.08.09-18.55.32:548][524]AssetCheck: New page: Asset Save: BP_RealWaveManager
+[2021.08.09-18.55.32:548][524]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/Enemies/BP_RealWaveManager.BP_RealWaveManager
+[2021.08.09-18.55.55:900][963]BlueprintLog: New page: Compile BP_RealWaveManager
+[2021.08.09-18.55.56:023][963]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2021.08.09-18.55.56:389][986]LogSavePackage: Moving '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Saved/BP_RealWaveManager107307DF4D56140070B5DB8241E46CED.tmp' to '../../../../../Users/Flatheet/Documents/Unreal Projects/ProjetFin2eAnnee/ProjetFin2eAnnee/Content/ProjectContent/Enemies/BP_RealWaveManager.uasset'
+[2021.08.09-18.55.56:413][986]AssetCheck: New page: Asset Save: BP_RealWaveManager
+[2021.08.09-18.55.56:413][986]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/Enemies/BP_RealWaveManager.BP_RealWaveManager
