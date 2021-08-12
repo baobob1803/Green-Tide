@@ -5603,3 +5603,1146 @@ Script call stack:
 [2021.08.12-15.11.50:932][219]LogEditorViewport: Clicking Background
 [2021.08.12-15.12.56:151][784]LogEditorViewport: Clicking on Actor (LMB): TorchActor_C (TorchActor)
 [2021.08.12-15.13.03:493][223]LogEditorViewport: Clicking Background
+[2021.08.12-15.18.40:171][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.08.12-15.18.40:250][735]LogSavePackage: Moving 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/RyanMapTestLD_Auto6100C591C4C9546527CECE6878291720B.tmp' to 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/Autosaves/Game/ProjectContent/Levels/RyanMapTestLD_Auto6.umap'
+[2021.08.12-15.18.40:251][735]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProjectContent/Levels/RyanMapTestLD' took 0.103
+[2021.08.12-15.18.40:251][735]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.103
+[2021.08.12-15.19.45:003][707]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Inventory_Button...
+[2021.08.12-15.19.45:003][707]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ProjectContent/Assets/SoundDesign/Village/Inventory_Button.Inventory_Button will be modified from 40 to 40.
+[2021.08.12-15.19.45:040][707]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 59076 while cooking SoundWave /Game/ProjectContent/Assets/SoundDesign/Village/Inventory_Button.Inventory_Button.
+[2021.08.12-15.19.48:772][930]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Select_Item_In_inventory...
+[2021.08.12-15.19.48:848][930]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ProjectContent/Assets/SoundDesign/Village/Select_Item_In_inventory.Select_Item_In_inventory will be modified from 40 to 40.
+[2021.08.12-15.19.48:880][930]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 504000 while cooking SoundWave /Game/ProjectContent/Assets/SoundDesign/Village/Select_Item_In_inventory.Select_Item_In_inventory.
+[2021.08.12-15.20.12:021][311]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Enemy_Hit...
+[2021.08.12-15.20.12:023][311]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ProjectContent/Assets/SoundDesign/Enemies/Enemy_Hit.Enemy_Hit will be modified from 40 to 40.
+[2021.08.12-15.20.12:037][311]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 85844 while cooking SoundWave /Game/ProjectContent/Assets/SoundDesign/Enemies/Enemy_Hit.Enemy_Hit.
+[2021.08.12-15.31.49:275][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.12-15.31.53:854][ 91]LogSlate: Window 'Save Content' being destroyed
+[2021.08.12-15.31.53:894][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.12-15.31.53:962][ 91]LogSavePackage: Moving 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/RyanMapTestLDB1CCA9974780D3271FA9A0B0CF78610E.tmp' to 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/RyanMapTestLD.umap'
+[2021.08.12-15.31.53:973][ 91]LogFileHelpers: Saving map 'RyanMapTestLD' took 0.098
+[2021.08.12-15.31.54:028][ 91]LogSavePackage: Moving 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/RyanMapTestLD_BuiltDataA7CE8F2F475AF313AF240E9DE8FF258E.tmp' to 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/RyanMapTestLD_BuiltData.uasset'
+[2021.08.12-15.31.54:067][ 91]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.08.12-15.31.54:067][ 91]Cmd: MAP LOAD FILE="D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.12-15.31.54:067][ 91]LightingResults: New page: Lighting Build
+[2021.08.12-15.31.54:067][ 91]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.08.12-15.31.54:103][ 91]LogWorld: UWorld::CleanupWorld for RyanMapTestLD, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-15.31.54:103][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-15.31.54:103][ 91]MapCheck: New page: Map Check
+[2021.08.12-15.31.54:103][ 91]LightingResults: New page: Lighting Build
+[2021.08.12-15.31.54:120][ 91]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-15.31.54:131][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.08.12-15.31.54:136][ 91]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.08.12-15.31.54:197][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.12-15.31.54:197][ 91]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.12-15.31.54:217][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.08.12-15.31.54:226][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.12-15.31.54:226][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2021.08.12-15.31.54:226][ 91]LogFileHelpers: Loading map 'MainMenuLevel' took 0.160
+[2021.08.12-15.31.54:254][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.12-15.31.54:254][ 91]LogContentValidation: Display: Validating World /Game/ProjectContent/Levels/RyanMapTestLD.RyanMapTestLD
+[2021.08.12-15.31.54:316][ 91]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProjectContent/Levels/RyanMapTestLD_BuiltData.RyanMapTestLD_BuiltData
+[2021.08.12-15.31.56:209][201]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.12-15.31.56:216][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.12-15.31.56:216][201]PIE: New page: PIE session: MainMenuLevel (12 août 2021 à 19:31:56)
+[2021.08.12-15.31.56:253][201]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-15.31.56:254][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000887s)
+[2021.08.12-15.31.56:255][201]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.12-15.31.56:255][201]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2021.08.12-15.31.56:255][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001879s)
+[2021.08.12-15.31.56:275][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.08.12-15.31.56:277][201]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.08.12-15.31.56:277][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.12-15.31.56:277][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.12-15.31.56:277][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.12-15.31.56:277][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.12-15.31.56:277][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.12-15.31.56:277][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.12-15.31.56:278][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.12-15.31.56:278][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.12-15.31.56:278][201]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.12-15.31.56:278][201]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.12-15.31.56:281][201]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.12-15.31.56:281][201]LogAudioMixer: Display: 1: FrontRight
+[2021.08.12-15.31.56:308][201]LogAudioMixer: Display: Using Audio Device Casque (Arctis 5 Game)
+[2021.08.12-15.31.56:309][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.12-15.31.56:309][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.12-15.31.56:309][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.12-15.31.56:309][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.12-15.31.56:309][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.12-15.31.56:309][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.12-15.31.56:323][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.12-15.31.56:323][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.12-15.31.56:323][201]LogInit: FAudioDevice initialized.
+[2021.08.12-15.31.56:323][201]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuLevel'.
+[2021.08.12-15.31.56:331][201]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2021.08.12-15.31.56:331][201]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2021.08.12-15.31.56:331][201]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2021.08.12-15.31.56:331][201]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-15.31.56:332][201]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.12-17.31.56
+[2021.08.12-15.31.56:332][201]LogWorld: Bringing up level for play took: 0.000358
+[2021.08.12-15.31.56:332][201]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.08.12-15.31.56:337][201]PIE: Server logged in
+[2021.08.12-15.31.56:338][201]PIE: Play in editor total start time 0,123 seconds.
+[2021.08.12-15.32.08:113][903]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-15.32.08:113][903]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-15.32.08:113][903]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-15.32.08:114][903]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-15.32.08:114][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-15.32.08:170][903]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-15.32.08:174][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.08.12-15.32.08:179][903]LogAudio: Display: Audio Device (ID: 15) registered with world 'VillageLevel'.
+[2021.08.12-15.32.08:180][903]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.12-15.32.08:180][903]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-15.32.08:181][903]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 60) at 2021.08.12-17.32.08
+[2021.08.12-15.32.08:181][903]LogWorld: Bringing up level for play took: 0.000609
+[2021.08.12-15.32.08:182][903]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.12-15.32.08:186][903]LogLoad: Took 0.072659 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.12-16.11.03:939][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.11.03:939][577]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.12-16.11.03:939][577]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.11.03:939][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.11.03:946][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.12-16.11.03:951][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.11.03:968][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.11.03:968][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.11.03:970][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.11.03:999][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.11.04:004][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.08.12-16.11.04:022][578]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.08.12-16.11.21:362][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Smoke_N_Oakum_-_5...
+[2021.08.12-16.11.21:758][611]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ProjectContent/Assets/SoundDesign/Soundtrack/Smoke_N_Oakum_-_5.Smoke_N_Oakum_-_5 will be modified from 40 to 40.
+[2021.08.12-16.11.26:616][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 61684092 while cooking SoundWave /Game/ProjectContent/Assets/SoundDesign/Soundtrack/Smoke_N_Oakum_-_5.Smoke_N_Oakum_-_5.
+[2021.08.12-16.11.26:631][611]LogEditorViewport: Clicking Background
+[2021.08.12-16.11.36:883][ 66]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Warcraft_-__Warcraft__Score_by_Ramin_Djawadi...
+[2021.08.12-16.11.37:104][ 66]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ProjectContent/Assets/SoundDesign/Soundtrack/Warcraft_-__Warcraft__Score_by_Ramin_Djawadi.Warcraft_-__Warcraft__Score_by_Ramin_Djawadi will be modified from 40 to 40.
+[2021.08.12-16.11.38:941][ 66]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 22687940 while cooking SoundWave /Game/ProjectContent/Assets/SoundDesign/Soundtrack/Warcraft_-__Warcraft__Score_by_Ramin_Djawadi.Warcraft_-__Warcraft__Score_by_Ramin_Djawadi.
+[2021.08.12-16.15.45:866][402]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Player_Dash...
+[2021.08.12-16.15.45:866][402]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ProjectContent/Assets/SoundDesign/Player/Player_Dash.Player_Dash will be modified from 40 to 40.
+[2021.08.12-16.15.45:879][402]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 33588 while cooking SoundWave /Game/ProjectContent/Assets/SoundDesign/Player/Player_Dash.Player_Dash.
+[2021.08.12-16.15.46:473][438]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Player_Dash2...
+[2021.08.12-16.15.46:474][438]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ProjectContent/Assets/SoundDesign/Player/Player_Dash2.Player_Dash2 will be modified from 40 to 40.
+[2021.08.12-16.15.46:501][438]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 199752 while cooking SoundWave /Game/ProjectContent/Assets/SoundDesign/Player/Player_Dash2.Player_Dash2.
+[2021.08.12-16.26.09:554][100]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.12-16.26.09:562][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.12-16.26.09:562][100]PIE: New page: PIE session: MainMenuLevel (12 août 2021 à 20:26:09)
+[2021.08.12-16.26.09:562][100]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.26.09:564][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002363s)
+[2021.08.12-16.26.09:566][100]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.12-16.26.09:567][100]LogPlayLevel: PIE: World Init took: (0.002052s)
+[2021.08.12-16.26.09:567][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004619s)
+[2021.08.12-16.26.09:588][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.12-16.26.09:594][100]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.08.12-16.26.09:594][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.12-16.26.09:594][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.12-16.26.09:594][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.12-16.26.09:594][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.12-16.26.09:594][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.12-16.26.09:594][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.12-16.26.09:594][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.12-16.26.09:594][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.12-16.26.09:595][100]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.12-16.26.09:595][100]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.12-16.26.09:599][100]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.12-16.26.09:599][100]LogAudioMixer: Display: 1: FrontRight
+[2021.08.12-16.26.09:627][100]LogAudioMixer: Display: Using Audio Device Casque (Arctis 5 Game)
+[2021.08.12-16.26.09:628][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.12-16.26.09:628][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.12-16.26.09:628][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.12-16.26.09:629][100]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.12-16.26.09:629][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.12-16.26.09:629][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.12-16.26.09:642][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.12-16.26.09:642][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.12-16.26.09:642][100]LogInit: FAudioDevice initialized.
+[2021.08.12-16.26.09:642][100]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenuLevel'.
+[2021.08.12-16.26.09:652][100]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.26.09:653][100]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.12-18.26.09
+[2021.08.12-16.26.09:653][100]LogWorld: Bringing up level for play took: 0.000459
+[2021.08.12-16.26.09:654][100]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.08.12-16.26.09:658][100]PIE: Server logged in
+[2021.08.12-16.26.09:658][100]PIE: Play in editor total start time 0,098 seconds.
+[2021.08.12-16.27.38:777][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.27.38:777][ 45]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.27.38:777][ 45]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.27.38:777][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.27.38:787][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.12-16.27.38:792][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.27.38:809][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.27.38:809][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.27.38:810][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.27.38:849][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.08.12-16.27.38:865][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.08.12-16.29.23:208][880]LogCascade: Quitting Cascade. FXSystem=0x000001B1CD042740
+[2021.08.12-16.29.23:223][880]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.29.23:223][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.32.14:338][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProjectContent/Blueprints/Enemies/BP_Boss_Orc.BP_Boss_Orc
+[2021.08.12-16.35.25:614][684]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.12-16.35.47:480][996]BlueprintLog: New page: Compile BP_Boss_Orc
+[2021.08.12-16.35.47:602][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.12-16.36.49:115][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.08.12-16.36.49:118][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProjectContent/Levels/MainMenuLevel' took 0.028
+[2021.08.12-16.36.49:118][676]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProjectContent/Blueprints/Enemies/BP_Boss_Orc] ([1] browsable assets)...
+[2021.08.12-16.36.49:128][676]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ProjectContent/Blueprints/Enemies/BP_Boss_Orc.BP_Boss_Orc]
+[2021.08.12-16.36.49:128][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProjectContent/Blueprints/Enemies/BP_Boss_Orc]
+[2021.08.12-16.36.49:139][676]LogSavePackage: Moving 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/BP_Boss_Orc_Auto71926CB6B40D72799183A99967FB2832B.tmp' to 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/Autosaves/Game/ProjectContent/Blueprints/Enemies/BP_Boss_Orc_Auto7.uasset'
+[2021.08.12-16.36.49:139][676]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.08.12-16.37.42:182][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProjectContent/Assets/Enviro/SketchFab/TorchActor.TorchActor
+[2021.08.12-16.38.28:365][584]BlueprintLog: New page: Compile TorchActor
+[2021.08.12-16.38.28:414][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.08.12-16.38.53:219][ 64]LogSlate: Window 'TorchActor' being destroyed
+[2021.08.12-16.38.53:232][ 64]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.38.53:232][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.38.55:609][201]LogSavePackage: Moving 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Saved/TorchActorEBFA4B7847D26535B3BEB3835E92730E.tmp' to 'D:/GIT/UnrealPF2/Portfolio-IV-2eme-Annee/ProjetFin2eAnnee/Content/ProjectContent/Assets/Enviro/SketchFab/TorchActor.uasset'
+[2021.08.12-16.38.55:622][201]AssetCheck: New page: Asset Save: TorchActor
+[2021.08.12-16.38.55:622][201]LogContentValidation: Display: Validating Blueprint /Game/ProjectContent/Assets/Enviro/SketchFab/TorchActor.TorchActor
+[2021.08.12-16.39.03:618][624]BlueprintLog: New page: Compile BP_Boss_Orc
+[2021.08.12-16.39.03:662][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.08.12-16.39.06:529][792]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.12-16.39.06:536][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.12-16.39.06:536][792]PIE: New page: PIE session: MainMenuLevel (12 août 2021 à 20:39:06)
+[2021.08.12-16.39.06:536][792]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.39.06:537][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000886s)
+[2021.08.12-16.39.06:538][792]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.12-16.39.06:538][792]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2021.08.12-16.39.06:538][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001797s)
+[2021.08.12-16.39.06:561][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.08.12-16.39.06:562][792]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.08.12-16.39.06:562][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.12-16.39.06:562][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.12-16.39.06:562][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.12-16.39.06:562][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.12-16.39.06:562][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.12-16.39.06:563][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.12-16.39.06:563][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.12-16.39.06:563][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.12-16.39.06:563][792]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.12-16.39.06:563][792]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.12-16.39.06:567][792]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.12-16.39.06:567][792]LogAudioMixer: Display: 1: FrontRight
+[2021.08.12-16.39.06:596][792]LogAudioMixer: Display: Using Audio Device Casque (Arctis 5 Game)
+[2021.08.12-16.39.06:596][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.12-16.39.06:596][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.12-16.39.06:596][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.12-16.39.06:596][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.12-16.39.06:596][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.12-16.39.06:596][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.12-16.39.06:610][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.12-16.39.06:610][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.12-16.39.06:610][792]LogInit: FAudioDevice initialized.
+[2021.08.12-16.39.06:610][792]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenuLevel'.
+[2021.08.12-16.39.06:621][792]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.39.06:622][792]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.12-18.39.06
+[2021.08.12-16.39.06:622][792]LogWorld: Bringing up level for play took: 0.000270
+[2021.08.12-16.39.06:623][792]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.08.12-16.39.06:625][792]PIE: Server logged in
+[2021.08.12-16.39.06:626][792]PIE: Play in editor total start time 0,09 seconds.
+[2021.08.12-16.39.18:018][475]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.39.18:018][475]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.39.18:018][475]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.39.18:019][475]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.39.18:019][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.39.18:065][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.39.18:068][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.08.12-16.39.18:073][475]LogAudio: Display: Audio Device (ID: 17) registered with world 'VillageLevel'.
+[2021.08.12-16.39.18:074][475]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.12-16.39.18:074][475]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.39.18:075][475]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 60) at 2021.08.12-18.39.18
+[2021.08.12-16.39.18:076][475]LogWorld: Bringing up level for play took: 0.000557
+[2021.08.12-16.39.18:076][475]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.12-16.39.18:078][475]LogLoad: Took 0.059886 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.12-16.40.14:815][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.40.14:815][876]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.12-16.40.14:815][876]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.40.14:816][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.40.14:821][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.12-16.40.14:827][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.40.14:848][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.40.14:848][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.40.14:849][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.40.14:891][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.40.14:900][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.08.12-16.40.14:919][877]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.08.12-16.40.16:323][961]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.12-16.40.16:330][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.12-16.40.16:330][961]PIE: New page: PIE session: MainMenuLevel (12 août 2021 à 20:40:16)
+[2021.08.12-16.40.16:330][961]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.40.16:331][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000839s)
+[2021.08.12-16.40.16:332][961]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.12-16.40.16:332][961]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2021.08.12-16.40.16:332][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001761s)
+[2021.08.12-16.40.16:355][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.08.12-16.40.16:355][961]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.08.12-16.40.16:355][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.12-16.40.16:355][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.12-16.40.16:355][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.12-16.40.16:355][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.12-16.40.16:355][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.12-16.40.16:355][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.12-16.40.16:355][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.12-16.40.16:355][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.12-16.40.16:356][961]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.12-16.40.16:356][961]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.12-16.40.16:361][961]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.12-16.40.16:361][961]LogAudioMixer: Display: 1: FrontRight
+[2021.08.12-16.40.16:395][961]LogAudioMixer: Display: Using Audio Device Casque (Arctis 5 Game)
+[2021.08.12-16.40.16:395][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.12-16.40.16:395][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.12-16.40.16:395][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.12-16.40.16:396][961]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.12-16.40.16:396][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.12-16.40.16:396][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.12-16.40.16:397][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.12-16.40.16:397][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.12-16.40.16:397][961]LogInit: FAudioDevice initialized.
+[2021.08.12-16.40.16:397][961]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenuLevel'.
+[2021.08.12-16.40.16:414][961]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.40.16:415][961]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.12-18.40.16
+[2021.08.12-16.40.16:415][961]LogWorld: Bringing up level for play took: 0.000268
+[2021.08.12-16.40.16:415][961]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.08.12-16.40.16:417][961]PIE: Server logged in
+[2021.08.12-16.40.16:418][961]PIE: Play in editor total start time 0,088 seconds.
+[2021.08.12-16.40.24:894][469]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.40.24:894][469]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.40.24:894][469]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.40.24:894][469]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.40.24:894][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.40.24:954][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.40.24:957][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.08.12-16.40.24:961][469]LogAudio: Display: Audio Device (ID: 18) registered with world 'VillageLevel'.
+[2021.08.12-16.40.24:962][469]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.12-16.40.24:962][469]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.40.24:964][469]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 60) at 2021.08.12-18.40.24
+[2021.08.12-16.40.24:964][469]LogWorld: Bringing up level for play took: 0.000481
+[2021.08.12-16.40.24:964][469]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.12-16.40.24:966][469]LogLoad: Took 0.072630 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.12-16.41.59:919][163]LogBlueprintUserMessages: [BP_GameInstance_C_16] The Item level is too high for you to wear.
+[2021.08.12-16.42.01:885][281]LogBlueprintUserMessages: [BP_GameInstance_C_16] The Item level is too high for you to wear.
+[2021.08.12-16.42.03:452][375]LogBlueprintUserMessages: [BP_GameInstance_C_16] The Item level is too high for you to wear.
+[2021.08.12-16.42.04:819][457]LogBlueprintUserMessages: [BP_GameInstance_C_16] The Item level is too high for you to wear.
+[2021.08.12-16.42.06:002][528]LogBlueprintUserMessages: [BP_GameInstance_C_16] The Item level is too high for you to wear.
+[2021.08.12-16.42.22:217][499]LogNet: Browse: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.12-16.42.22:217][499]LogLoad: LoadMap: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.12-16.42.22:217][499]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.12-16.42.22:217][499]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.42.22:217][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.42.22:264][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.42.22:267][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.08.12-16.42.22:267][499]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.12-16.42.22:285][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018488s)
+[2021.08.12-16.42.22:286][499]LogAIModule: Creating AISystem for world RyanMapTestLD
+[2021.08.12-16.42.22:287][499]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2021.08.12-16.42.22:287][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/RyanMapTestLD.RyanMapTestLD to /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD (0.020197s)
+[2021.08.12-16.42.22:287][499]LogAudio: Display: Audio Device (ID: 18) registered with world 'RyanMapTestLD'.
+[2021.08.12-16.42.22:287][499]LogLoad: Game class is 'BP_ThirdPersonGameMode_Master_C'
+[2021.08.12-16.42.22:294][499]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD up for play (max tick rate 60) at 2021.08.12-18.42.22
+[2021.08.12-16.42.22:295][499]LogWorld: Bringing up level for play took: 0.006602
+[2021.08.12-16.42.22:337][499]LogBlueprintUserMessages: [BP_GameInstance_C_16] Room In a Row Value is : 1
+[2021.08.12-16.42.22:338][499]LogLoad: Took 0.122072 seconds to LoadMap(/Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD)
+[2021.08.12-16.42.34:433][224]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.35:123][265]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.12-16.42.35:374][280]LogBlueprintUserMessages: [BP_Character_Master_C_0] 90.0
+[2021.08.12-16.42.36:006][318]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.36:956][375]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.12-16.42.37:408][402]LogBlueprintUserMessages: [BP_Character_Master_C_0] 80.0
+[2021.08.12-16.42.37:439][404]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.12-16.42.38:340][458]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.39:289][515]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.39:607][534]LogBlueprintUserMessages: [BP_Character_Master_C_0] 70.0
+[2021.08.12-16.42.39:822][547]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.40:056][561]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.40:656][597]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.40:657][597]LogBlueprintUserMessages: [BP_Character_Master_C_0] 5
+[2021.08.12-16.42.41:107][624]LogBlueprintUserMessages: [BP_Character_Master_C_0] 60.0
+[2021.08.12-16.42.41:540][650]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.41:540][650]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.12-16.42.41:909][672]LogBlueprintUserMessages: [BP_Character_Master_C_0] 50.0
+[2021.08.12-16.42.42:040][680]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.12-16.42.42:123][685]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.42:356][699]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.42:973][736]LogBlueprintUserMessages: [BP_Character_Master_C_0] 5
+[2021.08.12-16.42.42:990][737]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.42:991][737]LogBlueprintUserMessages: [BP_Character_Master_C_0] 5
+[2021.08.12-16.42.43:307][756]LogBlueprintUserMessages: [BP_Character_Master_C_0] 40.0
+[2021.08.12-16.42.43:823][787]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.43:942][794]LogBlueprintUserMessages: [BP_Character_Master_C_0] 30.0
+[2021.08.12-16.42.43:972][796]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.43:973][796]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.44:141][806]LogBlueprintUserMessages: [BP_Character_Master_C_0] 20.0
+[2021.08.12-16.42.44:439][824]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.12-16.42.44:440][824]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.44:440][824]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.45:290][875]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.42.45:306][876]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.45:307][876]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.42.45:375][880]LogBlueprintUserMessages: [BP_Character_Master_C_0] 10.0
+[2021.08.12-16.42.46:008][918]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.0
+[2021.08.12-16.42.46:008][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Room In a Row Value is : 0
+[2021.08.12-16.42.46:008][918]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ArrayOfInventoryItem [4/2]!
+[2021.08.12-16.42.46:008][918]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:003C
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:001D
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:01A6
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:0187
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:01EF
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:009][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:026D
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:024E
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:02E3
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:0346
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:009][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:009][918]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:003C
+[2021.08.12-16.42.46:009][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:010][918]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:001D
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:010][918]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:01A6
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:010][918]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:0187
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:010][918]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:01EF
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:010][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:010][918]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:026D
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:010][918]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_16
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:024E
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:010][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:010][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:010][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:011][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:011][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:011][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:012][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:012][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:012][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:012][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:012][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:013][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:013][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.42.46:013][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] 0.0
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.42.46:013][918]LogBlueprintUserMessages: [BP_GameInstance_C_16] Casting As Clothe Failed
+[2021.08.12-16.42.46:013][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.42.46:014][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.42.46:014][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.42.46:014][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.42.46:185][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.42.46:185][925]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.12-16.42.46:185][925]LogWorld: UWorld::CleanupWorld for RyanMapTestLD, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.42.46:187][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.42.46:196][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.12-16.42.46:201][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.42.46:224][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.42.46:224][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.42.46:225][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.42.46:270][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.08.12-16.42.46:366][926]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.08.12-16.42.47:685][  1]LogSlate: Window 'Message Log' being destroyed
+[2021.08.12-16.42.47:692][  1]LogSlate: Window 'Message Log' being destroyed
+[2021.08.12-16.42.49:126][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.12-16.42.49:133][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.12-16.42.49:133][ 87]PIE: New page: PIE session: MainMenuLevel (12 août 2021 à 20:42:49)
+[2021.08.12-16.42.49:153][ 87]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.42.49:154][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000896s)
+[2021.08.12-16.42.49:155][ 87]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.12-16.42.49:155][ 87]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2021.08.12-16.42.49:155][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001862s)
+[2021.08.12-16.42.49:177][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.08.12-16.42.49:178][ 87]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.08.12-16.42.49:178][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.12-16.42.49:178][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.12-16.42.49:178][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.12-16.42.49:178][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.12-16.42.49:178][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.12-16.42.49:178][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.12-16.42.49:178][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.12-16.42.49:178][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.12-16.42.49:178][ 87]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.12-16.42.49:178][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.12-16.42.49:182][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.12-16.42.49:182][ 87]LogAudioMixer: Display: 1: FrontRight
+[2021.08.12-16.42.49:210][ 87]LogAudioMixer: Display: Using Audio Device Casque (Arctis 5 Game)
+[2021.08.12-16.42.49:210][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.12-16.42.49:210][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.12-16.42.49:210][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.12-16.42.49:211][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.12-16.42.49:211][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.12-16.42.49:211][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.12-16.42.49:224][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.12-16.42.49:224][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.12-16.42.49:224][ 87]LogInit: FAudioDevice initialized.
+[2021.08.12-16.42.49:224][ 87]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenuLevel'.
+[2021.08.12-16.42.49:234][ 87]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.42.49:235][ 87]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.12-18.42.49
+[2021.08.12-16.42.49:235][ 87]LogWorld: Bringing up level for play took: 0.000277
+[2021.08.12-16.42.49:235][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.08.12-16.42.49:237][ 87]PIE: Server logged in
+[2021.08.12-16.42.49:238][ 87]PIE: Play in editor total start time 0,105 seconds.
+[2021.08.12-16.42.51:484][222]LogBlueprintUserMessages: [BP_MainMenuManager_4] Cannot Submit an empty name
+[2021.08.12-16.42.51:510][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.08.12-16.43.00:918][787]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.43.00:918][787]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.43.00:918][787]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.43.00:919][787]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.43.00:919][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.43.00:963][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.43.00:966][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.08.12-16.43.00:970][787]LogAudio: Display: Audio Device (ID: 19) registered with world 'VillageLevel'.
+[2021.08.12-16.43.00:971][787]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.12-16.43.00:971][787]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.43.00:973][787]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 60) at 2021.08.12-18.43.00
+[2021.08.12-16.43.00:973][787]LogWorld: Bringing up level for play took: 0.000441
+[2021.08.12-16.43.00:973][787]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.12-16.43.00:975][787]LogLoad: Took 0.057200 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.12-16.43.59:360][289]LogBlueprintUserMessages: [BP_GameInstance_C_17] The Item level is too high for you to wear.
+[2021.08.12-16.44.16:361][309]LogBlueprintUserMessages: [BP_GameInstance_C_17] 0.25
+[2021.08.12-16.44.31:327][207]LogNet: Browse: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.12-16.44.31:327][207]LogLoad: LoadMap: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.12-16.44.31:327][207]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.12-16.44.31:328][207]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.44.31:328][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.44.31:378][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.44.31:387][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.08.12-16.44.31:388][207]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.12-16.44.31:404][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015883s)
+[2021.08.12-16.44.31:405][207]LogAIModule: Creating AISystem for world RyanMapTestLD
+[2021.08.12-16.44.31:406][207]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2021.08.12-16.44.31:406][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/RyanMapTestLD.RyanMapTestLD to /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD (0.016901s)
+[2021.08.12-16.44.31:406][207]LogAudio: Display: Audio Device (ID: 19) registered with world 'RyanMapTestLD'.
+[2021.08.12-16.44.31:406][207]LogLoad: Game class is 'BP_ThirdPersonGameMode_Master_C'
+[2021.08.12-16.44.31:414][207]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD up for play (max tick rate 60) at 2021.08.12-18.44.31
+[2021.08.12-16.44.31:415][207]LogWorld: Bringing up level for play took: 0.008822
+[2021.08.12-16.44.31:468][207]LogBlueprintUserMessages: [BP_GameInstance_C_17] Room In a Row Value is : 1
+[2021.08.12-16.44.31:469][207]LogLoad: Took 0.141496 seconds to LoadMap(/Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD)
+[2021.08.12-16.44.47:361][160]LogBlueprintUserMessages: [BP_Character_Master_C_0] 17
+[2021.08.12-16.44.47:377][161]LogBlueprintUserMessages: [BP_Character_Master_C_0] 12
+[2021.08.12-16.44.47:861][190]LogBlueprintUserMessages: [BP_Character_Master_C_0] 20
+[2021.08.12-16.44.47:871][190]LogBlueprintUserMessages: [BP_Character_Master_C_0] 20
+[2021.08.12-16.44.47:982][197]LogBlueprintUserMessages: [BP_Character_Master_C_0] 20
+[2021.08.12-16.44.48:565][232]LogBlueprintUserMessages: [BP_Character_Master_C_0] 17
+[2021.08.12-16.45.04:766][203]LogBlueprintUserMessages: [BP_Character_Master_C_0] 11
+[2021.08.12-16.45.05:384][240]LogBlueprintUserMessages: [BP_Character_Master_C_0] 15
+[2021.08.12-16.45.05:835][267]LogBlueprintUserMessages: [BP_Character_Master_C_0] 112.056671
+[2021.08.12-16.45.06:366][299]LogBlueprintUserMessages: [BP_Character_Master_C_0] 10
+[2021.08.12-16.45.07:811][384]LogBlueprintUserMessages: [BP_Character_Master_C_0] 19
+[2021.08.12-16.45.08:447][422]LogBlueprintUserMessages: [BP_Character_Master_C_0] 107.439728
+[2021.08.12-16.45.08:827][445]LogBlueprintUserMessages: [BP_Character_Master_C_0] 19
+[2021.08.12-16.45.19:761][101]LogBlueprintUserMessages: [BP_Character_Master_C_0] 18
+[2021.08.12-16.45.20:495][145]LogBlueprintUserMessages: [BP_Character_Master_C_0] 11
+[2021.08.12-16.45.31:961][833]LogBlueprintUserMessages: [BP_Character_Master_C_0] 10
+[2021.08.12-16.45.32:728][879]LogBlueprintUserMessages: [BP_Character_Master_C_0] 15
+[2021.08.12-16.45.32:796][883]LogBlueprintUserMessages: [BP_Character_Master_C_0] 102.822784
+[2021.08.12-16.45.33:661][935]LogBlueprintUserMessages: [BP_Character_Master_C_0] 19
+[2021.08.12-16.45.43:229][509]LogBlueprintUserMessages: [BP_Character_Master_C_0] 15
+[2021.08.12-16.45.43:864][547]LogBlueprintUserMessages: [BP_Character_Master_C_0] 98.205841
+[2021.08.12-16.45.44:062][559]LogBlueprintUserMessages: [BP_Character_Master_C_0] 22
+[2021.08.12-16.45.50:162][925]LogBlueprintUserMessages: [BP_Character_Master_C_0] 9
+[2021.08.12-16.45.50:862][967]LogBlueprintUserMessages: [BP_Character_Master_C_0] 15
+[2021.08.12-16.45.50:864][967]LogBlueprintUserMessages: [BP_Character_Master_C_0] 93.588898
+[2021.08.12-16.45.51:695][ 17]LogBlueprintUserMessages: [BP_Character_Master_C_0] 14
+[2021.08.12-16.46.02:704][674]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3.0
+[2021.08.12-16.46.15:771][458]LogBlueprintUserMessages: [BP_Character_Master_C_0] 9
+[2021.08.12-16.46.16:337][492]LogBlueprintUserMessages: [BP_Character_Master_C_0] 17
+[2021.08.12-16.46.16:789][519]LogBlueprintUserMessages: [BP_Character_Master_C_0] 88.971954
+[2021.08.12-16.46.17:155][541]LogBlueprintUserMessages: [BP_Character_Master_C_0] 13
+[2021.08.12-16.46.19:143][659]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4.0
+[2021.08.12-16.46.21:927][826]LogBlueprintUserMessages: [BP_GameInstance_C_17] Room In a Row Value is : 2
+[2021.08.12-16.46.21:927][826]LogBlueprintUserMessages: [BP_BattleManager_C_0] All items have been successfully destroyed
+[2021.08.12-16.46.24:731][994]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2.0
+[2021.08.12-16.46.24:732][994]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.983333
+[2021.08.12-16.46.24:743][995]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.966666
+[2021.08.12-16.46.24:767][996]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.943401
+[2021.08.12-16.46.24:784][997]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.926734
+[2021.08.12-16.46.24:801][998]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.910054
+[2021.08.12-16.46.24:817][999]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.893374
+[2021.08.12-16.46.24:834][  0]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.876708
+[2021.08.12-16.46.24:850][  1]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.860041
+[2021.08.12-16.46.24:867][  2]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.843374
+[2021.08.12-16.46.24:883][  3]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.826707
+[2021.08.12-16.46.24:900][  4]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.810039
+[2021.08.12-16.46.24:917][  5]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.793373
+[2021.08.12-16.46.24:933][  6]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.776706
+[2021.08.12-16.46.24:950][  7]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.760038
+[2021.08.12-16.46.24:967][  8]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.743371
+[2021.08.12-16.46.24:984][  9]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.726704
+[2021.08.12-16.46.25:000][ 10]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.710037
+[2021.08.12-16.46.25:141][ 11]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.56885
+[2021.08.12-16.46.25:157][ 12]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.552183
+[2021.08.12-16.46.25:174][ 13]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.535516
+[2021.08.12-16.46.25:191][ 14]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.518849
+[2021.08.12-16.46.25:208][ 15]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.502182
+[2021.08.12-16.46.25:224][ 16]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.485516
+[2021.08.12-16.46.25:241][ 17]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.468849
+[2021.08.12-16.46.25:776][ 18]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.068849
+[2021.08.12-16.46.25:793][ 19]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.052181
+[2021.08.12-16.46.25:809][ 20]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.035514
+[2021.08.12-16.46.25:826][ 21]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.018842
+[2021.08.12-16.46.25:842][ 22]LogBlueprintUserMessages: [BP_Character_Master_C_0] 1.002175
+[2021.08.12-16.46.25:859][ 23]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.985508
+[2021.08.12-16.46.25:876][ 24]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.968841
+[2021.08.12-16.46.25:893][ 25]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.952174
+[2021.08.12-16.46.25:909][ 26]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.935507
+[2021.08.12-16.46.25:926][ 27]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.91884
+[2021.08.12-16.46.25:942][ 28]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.902173
+[2021.08.12-16.46.25:959][ 29]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.885506
+[2021.08.12-16.46.25:975][ 30]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.868839
+[2021.08.12-16.46.25:992][ 31]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.852171
+[2021.08.12-16.46.26:009][ 32]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.835505
+[2021.08.12-16.46.26:025][ 33]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.818838
+[2021.08.12-16.46.26:042][ 34]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.802171
+[2021.08.12-16.46.26:058][ 35]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.785504
+[2021.08.12-16.46.26:076][ 36]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.768837
+[2021.08.12-16.46.26:092][ 37]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.75217
+[2021.08.12-16.46.26:109][ 38]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.735503
+[2021.08.12-16.46.26:125][ 39]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.718837
+[2021.08.12-16.46.26:142][ 40]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.70217
+[2021.08.12-16.46.26:159][ 41]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.685503
+[2021.08.12-16.46.26:175][ 42]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.668836
+[2021.08.12-16.46.26:193][ 43]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.652169
+[2021.08.12-16.46.26:209][ 44]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.635502
+[2021.08.12-16.46.26:226][ 45]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.618835
+[2021.08.12-16.46.26:243][ 46]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.602168
+[2021.08.12-16.46.26:259][ 47]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.585502
+[2021.08.12-16.46.26:275][ 48]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.568835
+[2021.08.12-16.46.26:292][ 49]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.552168
+[2021.08.12-16.46.26:308][ 50]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.535501
+[2021.08.12-16.46.26:326][ 51]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.518834
+[2021.08.12-16.46.26:342][ 52]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.502167
+[2021.08.12-16.46.26:359][ 53]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.4855
+[2021.08.12-16.46.26:376][ 54]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.468833
+[2021.08.12-16.46.26:393][ 55]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.452166
+[2021.08.12-16.46.26:409][ 56]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.435483
+[2021.08.12-16.46.26:425][ 57]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.418816
+[2021.08.12-16.46.26:442][ 58]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.402149
+[2021.08.12-16.46.26:459][ 59]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.385482
+[2021.08.12-16.46.26:475][ 60]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.368815
+[2021.08.12-16.46.26:492][ 61]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.352148
+[2021.08.12-16.46.26:508][ 62]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.335481
+[2021.08.12-16.46.26:525][ 63]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.318813
+[2021.08.12-16.46.26:542][ 64]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.302146
+[2021.08.12-16.46.26:558][ 65]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.28548
+[2021.08.12-16.46.26:575][ 66]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.268812
+[2021.08.12-16.46.26:592][ 67]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.252145
+[2021.08.12-16.46.26:609][ 68]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.235478
+[2021.08.12-16.46.26:625][ 69]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.218811
+[2021.08.12-16.46.26:642][ 70]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.202144
+[2021.08.12-16.46.26:659][ 71]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.185477
+[2021.08.12-16.46.26:675][ 72]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.16881
+[2021.08.12-16.46.26:693][ 73]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.152143
+[2021.08.12-16.46.26:709][ 74]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.135476
+[2021.08.12-16.46.26:725][ 75]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.118809
+[2021.08.12-16.46.26:742][ 76]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.102142
+[2021.08.12-16.46.26:759][ 77]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.085475
+[2021.08.12-16.46.26:775][ 78]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.068808
+[2021.08.12-16.46.26:792][ 79]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.052142
+[2021.08.12-16.46.26:809][ 80]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.035475
+[2021.08.12-16.46.26:825][ 81]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.018808
+[2021.08.12-16.46.26:842][ 82]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.002141
+[2021.08.12-16.46.26:858][ 83]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.0
+[2021.08.12-16.46.26:859][ 83]LogBlueprintUserMessages: [BP_GameInstance_C_17] Room In a Row Value is : 0
+[2021.08.12-16.46.26:875][ 84]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.46.26:875][ 84]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.46.26:875][ 84]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.12-16.46.26:876][ 84]LogWorld: UWorld::CleanupWorld for RyanMapTestLD, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.46.26:878][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.46.26:934][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.46.26:942][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.08.12-16.46.26:951][ 84]LogAudio: Display: Audio Device (ID: 19) registered with world 'VillageLevel'.
+[2021.08.12-16.46.26:951][ 84]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.12-16.46.26:952][ 84]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.46.26:953][ 84]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 60) at 2021.08.12-18.46.26
+[2021.08.12-16.46.26:954][ 84]LogWorld: Bringing up level for play took: 0.000956
+[2021.08.12-16.46.26:954][ 84]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.12-16.46.26:956][ 84]LogLoad: Took 0.080410 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.12-16.46.59:082][ 10]LogBlueprintUserMessages: [BP_GameInstance_C_17] 2.5
+[2021.08.12-16.47.00:682][106]LogBlueprintUserMessages: [BP_GameInstance_C_17] 2.5
+[2021.08.12-16.47.07:732][529]LogBlueprintUserMessages: [BP_GameInstance_C_17] 2.5
+[2021.08.12-16.47.42:767][631]LogBlueprintUserMessages: [BP_GameInstance_C_17] 2.5
+[2021.08.12-16.47.59:504][634]LogNet: Browse: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.12-16.47.59:504][634]LogLoad: LoadMap: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.12-16.47.59:504][634]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.12-16.47.59:504][634]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.47.59:504][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.47.59:524][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.47.59:527][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.08.12-16.47.59:528][634]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.12-16.47.59:544][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015815s)
+[2021.08.12-16.47.59:545][634]LogAIModule: Creating AISystem for world RyanMapTestLD
+[2021.08.12-16.47.59:546][634]LogPlayLevel: PIE: World Init took: (0.002143s)
+[2021.08.12-16.47.59:546][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/RyanMapTestLD.RyanMapTestLD to /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD (0.018137s)
+[2021.08.12-16.47.59:546][634]LogAudio: Display: Audio Device (ID: 19) registered with world 'RyanMapTestLD'.
+[2021.08.12-16.47.59:546][634]LogLoad: Game class is 'BP_ThirdPersonGameMode_Master_C'
+[2021.08.12-16.47.59:551][634]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD up for play (max tick rate 60) at 2021.08.12-18.47.59
+[2021.08.12-16.47.59:551][634]LogWorld: Bringing up level for play took: 0.003825
+[2021.08.12-16.47.59:746][634]LogBlueprintUserMessages: [BP_GameInstance_C_17] Room In a Row Value is : 1
+[2021.08.12-16.47.59:747][634]LogLoad: Took 0.243057 seconds to LoadMap(/Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD)
+[2021.08.12-16.48.08:349][150]LogBlueprintUserMessages: [BP_Character_Master_C_0] 83.366013
+[2021.08.12-16.48.09:116][196]LogBlueprintUserMessages: [BP_Character_Master_C_0] 78.513573
+[2021.08.12-16.48.10:148][258]LogBlueprintUserMessages: [BP_Character_Master_C_0] 40
+[2021.08.12-16.48.10:231][263]LogBlueprintUserMessages: [BP_Character_Master_C_0] 39
+[2021.08.12-16.48.12:774][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.48.12:774][413]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.12-16.48.12:775][413]LogWorld: UWorld::CleanupWorld for RyanMapTestLD, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.48.12:776][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.48.12:787][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.12-16.48.12:792][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.48.12:813][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.48.12:813][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.48.12:814][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.48.12:842][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.08.12-16.48.12:863][414]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.08.12-16.48.29:712][425]BlueprintLog: New page: Compile BP_Boss_Orc
+[2021.08.12-16.48.29:776][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.08.12-16.48.31:678][537]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.12-16.48.31:685][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.12-16.48.31:685][537]PIE: New page: PIE session: MainMenuLevel (12 août 2021 à 20:48:31)
+[2021.08.12-16.48.31:723][537]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.48.31:724][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000897s)
+[2021.08.12-16.48.31:724][537]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.12-16.48.31:724][537]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2021.08.12-16.48.31:724][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001843s)
+[2021.08.12-16.48.31:747][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.08.12-16.48.31:748][537]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.08.12-16.48.31:748][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.12-16.48.31:748][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.12-16.48.31:748][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.12-16.48.31:748][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.12-16.48.31:748][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.12-16.48.31:748][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.12-16.48.31:748][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.12-16.48.31:748][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.12-16.48.31:749][537]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.12-16.48.31:749][537]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.12-16.48.31:753][537]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.12-16.48.31:753][537]LogAudioMixer: Display: 1: FrontRight
+[2021.08.12-16.48.31:781][537]LogAudioMixer: Display: Using Audio Device Casque (Arctis 5 Game)
+[2021.08.12-16.48.31:781][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.12-16.48.31:781][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.12-16.48.31:781][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.12-16.48.31:782][537]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.12-16.48.31:782][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.12-16.48.31:782][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.12-16.48.31:795][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.12-16.48.31:795][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.12-16.48.31:795][537]LogInit: FAudioDevice initialized.
+[2021.08.12-16.48.31:795][537]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMenuLevel'.
+[2021.08.12-16.48.31:805][537]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.48.31:806][537]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.12-18.48.31
+[2021.08.12-16.48.31:806][537]LogWorld: Bringing up level for play took: 0.000265
+[2021.08.12-16.48.31:806][537]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.08.12-16.48.31:808][537]PIE: Server logged in
+[2021.08.12-16.48.31:809][537]PIE: Play in editor total start time 0,125 seconds.
+[2021.08.12-16.48.41:872][141]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.48.41:872][141]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.48.41:872][141]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.48.41:872][141]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.48.41:872][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.48.41:932][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.48.41:935][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.08.12-16.48.41:939][141]LogAudio: Display: Audio Device (ID: 20) registered with world 'VillageLevel'.
+[2021.08.12-16.48.41:940][141]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.12-16.48.41:940][141]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.48.41:942][141]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 60) at 2021.08.12-18.48.41
+[2021.08.12-16.48.41:942][141]LogWorld: Bringing up level for play took: 0.000480
+[2021.08.12-16.48.41:942][141]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.12-16.48.41:945][141]LogLoad: Took 0.073173 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.12-16.48.56:746][ 29]LogNet: Browse: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.12-16.48.56:746][ 29]LogLoad: LoadMap: /Game/ProjectContent/Levels/RyanMapTestLD
+[2021.08.12-16.48.56:746][ 29]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.12-16.48.56:746][ 29]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.48.56:747][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.48.56:803][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.48.56:806][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.08.12-16.48.56:807][ 29]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.12-16.48.56:822][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015262s)
+[2021.08.12-16.48.56:823][ 29]LogAIModule: Creating AISystem for world RyanMapTestLD
+[2021.08.12-16.48.56:824][ 29]LogPlayLevel: PIE: World Init took: (0.001813s)
+[2021.08.12-16.48.56:824][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/RyanMapTestLD.RyanMapTestLD to /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD (0.017245s)
+[2021.08.12-16.48.56:824][ 29]LogAudio: Display: Audio Device (ID: 20) registered with world 'RyanMapTestLD'.
+[2021.08.12-16.48.56:824][ 29]LogLoad: Game class is 'BP_ThirdPersonGameMode_Master_C'
+[2021.08.12-16.48.56:829][ 29]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD.RyanMapTestLD up for play (max tick rate 60) at 2021.08.12-18.48.56
+[2021.08.12-16.48.56:830][ 29]LogWorld: Bringing up level for play took: 0.004373
+[2021.08.12-16.48.56:968][ 29]LogBlueprintUserMessages: [BP_GameInstance_C_18] Room In a Row Value is : 1
+[2021.08.12-16.48.56:969][ 29]LogLoad: Took 0.222857 seconds to LoadMap(/Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD)
+[2021.08.12-16.49.08:226][704]LogBlueprintUserMessages: [BP_Character_Master_C_0] 90.0
+[2021.08.12-16.49.12:759][976]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.13:092][996]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.13:109][997]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.13:359][ 12]LogBlueprintUserMessages: [BP_Character_Master_C_0] 80.0
+[2021.08.12-16.49.13:393][ 14]LogBlueprintUserMessages: [BP_Character_Master_C_0] 70.0
+[2021.08.12-16.49.14:292][ 68]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.14:292][ 68]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.49.15:058][114]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.12-16.49.15:426][136]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.15:560][144]LogBlueprintUserMessages: [BP_Character_Master_C_0] 60.0
+[2021.08.12-16.49.15:560][144]LogBlueprintUserMessages: [BP_Character_Master_C_0] 50.0
+[2021.08.12-16.49.15:759][156]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.16:692][212]LogBlueprintUserMessages: [BP_Character_Master_C_0] 5
+[2021.08.12-16.49.16:693][212]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.17:390][253]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.49.17:691][271]LogBlueprintUserMessages: [BP_Character_Master_C_0] 4
+[2021.08.12-16.49.17:977][288]LogBlueprintUserMessages: [BP_Character_Master_C_0] 40.0
+[2021.08.12-16.49.17:977][288]LogBlueprintUserMessages: [BP_Character_Master_C_0] 30.0
+[2021.08.12-16.49.18:042][292]LogBlueprintUserMessages: [BP_Character_Master_C_0] 3
+[2021.08.12-16.49.18:890][343]LogBlueprintUserMessages: [BP_Character_Master_C_0] 5
+[2021.08.12-16.49.18:890][343]LogBlueprintUserMessages: [BP_Character_Master_C_0] 5
+[2021.08.12-16.49.18:891][343]LogBlueprintUserMessages: [BP_Character_Master_C_0] 5
+[2021.08.12-16.49.20:042][412]LogBlueprintUserMessages: [BP_Character_Master_C_0] 20.0
+[2021.08.12-16.49.20:107][416]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.20:142][418]LogBlueprintUserMessages: [BP_Character_Master_C_0] 10.0
+[2021.08.12-16.49.20:374][432]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.20:391][433]LogBlueprintUserMessages: [BP_Character_Master_C_0] 2
+[2021.08.12-16.49.20:442][436]LogBlueprintUserMessages: [BP_Character_Master_C_0] 0.0
+[2021.08.12-16.49.20:442][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Room In a Row Value is : 0
+[2021.08.12-16.49.20:442][436]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:003C
+[2021.08.12-16.49.20:442][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:442][436]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:001D
+[2021.08.12-16.49.20:442][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:442][436]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:01A6
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:0187
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:01EF
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:443][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:026D
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:024E
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:02E3
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:0346
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:443][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:003C
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:001D
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:01A6
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:0187
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:01EF
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:443][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:443][436]LogScript: Warning: Accessed None trying to read property ItemToRemoveInfluenceFrom
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:026D
+[2021.08.12-16.49.20:443][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:444][436]LogScript: Warning: Accessed None
+	BP_GameInstance_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_18
+	Function /Game/ProjectContent/Blueprints/00_Manager/BP_GameInstance.BP_GameInstance_C:RemoveItemInfluence:024E
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:444][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:444][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:444][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:444][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:444][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:445][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:445][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:445][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:445][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:445][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:446][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:446][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:446][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:447][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Values
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Print String
+[2021.08.12-16.49.20:447][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] 0.0
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ItemToRemoveInfluenceFrom". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_GameInstance Function:  Remove Item Influence Graph:  RemoveItemInfluence Node:  Set AttributeValue
+[2021.08.12-16.49.20:447][436]LogBlueprintUserMessages: [BP_GameInstance_C_18] Casting As Clothe Failed
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.49.20:447][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DisplayItemReference". Blueprint:  BP_GameInstance Function:  Delet Item Graph:  DeletItem Node:  Remove Index
+[2021.08.12-16.49.22:984][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.08.12-16.49.22:985][587]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.49.22:985][587]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.49.22:985][587]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_RyanMapTestLD
+[2021.08.12-16.49.22:986][587]LogWorld: UWorld::CleanupWorld for RyanMapTestLD, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.49.22:987][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.49.23:044][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.49.23:048][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.08.12-16.49.23:052][587]LogAudio: Display: Audio Device (ID: 20) registered with world 'VillageLevel'.
+[2021.08.12-16.49.23:053][587]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.12-16.49.23:053][587]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.49.23:055][587]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 60) at 2021.08.12-18.49.23
+[2021.08.12-16.49.23:055][587]LogWorld: Bringing up level for play took: 0.000521
+[2021.08.12-16.49.23:055][587]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.12-16.49.23:057][587]LogLoad: Took 0.071471 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.12-16.49.31:215][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.08.12-16.49.33:874][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.49.33:874][233]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.12-16.49.33:874][233]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.49.33:874][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.49.33:884][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.12-16.49.33:889][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.49.33:909][233]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.49.33:909][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.49.33:910][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.49.33:949][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.49.33:953][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.08.12-16.49.34:038][234]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.08.12-16.49.34:624][265]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.12-16.49.34:631][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.12-16.49.34:631][265]PIE: New page: PIE session: MainMenuLevel (12 août 2021 à 20:49:34)
+[2021.08.12-16.49.34:632][265]LogPlayLevel: Creating play world package: /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.49.34:633][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000983s)
+[2021.08.12-16.49.34:633][265]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.12-16.49.34:633][265]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2021.08.12-16.49.34:633][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectContent/Levels/MainMenuLevel.MainMenuLevel to /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001963s)
+[2021.08.12-16.49.34:655][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.08.12-16.49.34:656][265]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.08.12-16.49.34:656][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.12-16.49.34:656][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.12-16.49.34:656][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.12-16.49.34:656][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.12-16.49.34:656][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.12-16.49.34:656][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.12-16.49.34:656][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.12-16.49.34:656][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.12-16.49.34:657][265]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.12-16.49.34:657][265]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.12-16.49.34:660][265]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.12-16.49.34:660][265]LogAudioMixer: Display: 1: FrontRight
+[2021.08.12-16.49.34:687][265]LogAudioMixer: Display: Using Audio Device Casque (Arctis 5 Game)
+[2021.08.12-16.49.34:687][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.12-16.49.34:687][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.12-16.49.34:687][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.12-16.49.34:687][265]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.12-16.49.34:687][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.12-16.49.34:687][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.12-16.49.34:688][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.12-16.49.34:688][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.12-16.49.34:688][265]LogInit: FAudioDevice initialized.
+[2021.08.12-16.49.34:688][265]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainMenuLevel'.
+[2021.08.12-16.49.34:705][265]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.49.34:706][265]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.12-18.49.34
+[2021.08.12-16.49.34:707][265]LogWorld: Bringing up level for play took: 0.000270
+[2021.08.12-16.49.34:707][265]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.08.12-16.49.34:709][265]PIE: Server logged in
+[2021.08.12-16.49.34:709][265]PIE: Play in editor total start time 0,078 seconds.
+[2021.08.12-16.49.35:489][312]LogSlate: Window 'Message Log' being destroyed
+[2021.08.12-16.49.35:495][312]LogSlate: Window 'Message Log' being destroyed
+[2021.08.12-16.49.46:189][954]LogNet: Browse: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.49.46:189][954]LogLoad: LoadMap: /Game/ProjectContent/Levels/VillageLevel
+[2021.08.12-16.49.46:189][954]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.08.12-16.49.46:189][954]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.49.46:189][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.49.46:253][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.12-16.49.46:256][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.08.12-16.49.46:260][954]LogAudio: Display: Audio Device (ID: 21) registered with world 'VillageLevel'.
+[2021.08.12-16.49.46:261][954]LogAIModule: Creating AISystem for world VillageLevel
+[2021.08.12-16.49.46:261][954]LogLoad: Game class is 'GameModeBase'
+[2021.08.12-16.49.46:262][954]LogWorld: Bringing World /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel.VillageLevel up for play (max tick rate 60) at 2021.08.12-18.49.46
+[2021.08.12-16.49.46:263][954]LogWorld: Bringing up level for play took: 0.000630
+[2021.08.12-16.49.46:263][954]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.12-16.49.46:265][954]LogLoad: Took 0.076181 seconds to LoadMap(/Game/ProjectContent/Levels/VillageLevel)
+[2021.08.12-16.50.59:215][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.50.59:215][237]LogWorld: BeginTearingDown for /Game/ProjectContent/Levels/UEDPIE_0_VillageLevel
+[2021.08.12-16.50.59:215][237]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.12-16.50.59:215][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.50.59:221][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.12-16.50.59:227][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.12-16.50.59:248][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.12-16.50.59:248][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.50.59:249][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.12-16.50.59:301][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.08.12-16.50.59:321][238]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.08.12-16.51.00:970][337]BlueprintLog: New page: Compile BP_Boss_Orc
+[2021.08.12-16.51.01:014][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
